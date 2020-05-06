@@ -1,0 +1,70 @@
+<div style="font-size:12px;padding:5px 0px 5px 8px;color:#303030; margin-top:3px">最新消息：<a style="color:#0A3D72; text-decoration:none" href="javascript:shiftclickleft();">&#9668;</a> 
+	<a style="color:#0A3D72; text-decoration:none" href="javascript:shiftclickright();">&#9658;</a>
+<span id="latest1" style="display:none; position:relative"></span>
+<span id="latest2" style="display:none; position:relative"></span>
+<span id="latest3" style="display:none; position:relative"></span>
+<span id="latest4" style="display:none; position:relative"></span>
+<span id="latest5" style="display:none; position:relative"></span>
+<span id="latest6" style="display:none; position:relative"></span>
+</div>
+<iframe src="http://www.icxo.com/latestnews.htm" style="display:none;"></iframe>
+<script language="javascript">
+var left;
+var i;
+var idNum = 0;
+
+function shiftleft() {
+if (left > 10) {
+document.getElementById("latest" + idNum).style.left = left - i;
+i++;
+left -= i;
+st=setTimeout("shiftleft()", 20);
+}
+else {
+clearTimeout(st);
+}
+}
+
+function shifttimer() {
+idNum++;
+if (idNum <= 6) {
+if (idNum == 1) {
+document.getElementById("latest6").style.display= "none";
+}
+else {
+document.getElementById("latest" + (idNum - 1)).style.display = "none";
+}
+document.getElementById("latest" + idNum).style.display="inline";
+left = 320;
+i = 0;
+shiftleft();
+t = setTimeout("shifttimer()", 5000);
+}
+else {
+idNum=1;
+document.getElementById("latest6").style.display = "none";
+document.getElementById("latest" + idNum).style.display="inline";
+left = 320;
+i = 0;
+shiftleft();
+t = setTimeout("shifttimer()", 5000);
+}
+}
+
+function shiftclickleft() {
+clearTimeout(t);
+shifttimer();
+}
+
+function shiftclickright() {
+document.getElementById("latest" + idNum).style.display = "none";
+if (idNum == 1) {
+idNum = 5;
+}
+else {
+idNum = idNum - 2;
+}
+clearTimeout(t);
+shifttimer();
+}
+</script>

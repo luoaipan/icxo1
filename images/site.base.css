@@ -1,0 +1,234 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; BACKGROUND: url(bkg-mainpage-topfade.jpg) #f1f1f1 repeat-x 50% top; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #666; PADDING-TOP: 0px; FONT-FAMILY: arial,helvetica,lucida,tahoma,verdana,sans-serif; TEXT-ALIGN: center;	background-image:url(http://www.icxo.com/images/bkg-mainpage-topfade.jpg);background-repeat: repeat-x;
+}
+A {
+	COLOR: #2a68d2
+}
+A:hover {
+	COLOR: #f08528
+}
+A:active {
+	outline: none
+}
+A:unknown {
+	moz-outline-style: none
+}
+#mainpage {
+	MARGIN: 0px auto; WIDTH: 978px; TEXT-ALIGN: left
+}
+#page-header {
+	MARGIN-BOTTOM: 20px; WIDTH: 978px; POSITION: relative; HEIGHT: 90px
+}
+#page-header A {
+	MARGIN: 0px; OVERFLOW: hidden; TEXT-INDENT: -9000px; outline: none
+}
+#page-header H1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 246px; PADDING-TOP: 0px; POSITION: absolute; TOP: 0px; HEIGHT: 90px
+}
+#page-header H1 A {
+	DISPLAY: block; no-repeat 0px 0px; WIDTH: 245px; HEIGHT: 90px
+}
+#page-header H1 A:hover {
+	BACKGROUND-POSITION: 0px -90px
+}
+#page-header A#page-header-platform {
+	DISPLAY: block;  no-repeat -245px 0px; LEFT: 245px; WIDTH: 145px; POSITION: absolute; TOP: 0px; HEIGHT: 90px
+}
+#page-header A#page-header-platform:hover {
+	BACKGROUND-POSITION: -245px -90px
+}
+#page-header A.page-header-platform-active#page-header-platform {
+	BACKGROUND-POSITION: -245px -180px
+}
+#page-header A#page-header-services {
+	DISPLAY: block;  no-repeat -390px 0px; LEFT: 390px; WIDTH: 145px; POSITION: absolute; TOP: 0px; HEIGHT: 90px
+}
+#page-header A#page-header-services:hover {
+	BACKGROUND-POSITION: -390px -90px
+}
+#page-header A.page-header-services-active#page-header-services {
+	BACKGROUND-POSITION: -390px -180px
+}
+#page-header A#page-header-developers {
+	DISPLAY: block; no-repeat -535px 0px; LEFT: 535px; WIDTH: 145px; POSITION: absolute; TOP: 0px; HEIGHT: 90px
+}
+#page-header A#page-header-developers:hover {
+	BACKGROUND-POSITION: -535px -90px
+}
+#page-header A.page-header-developers-active#page-header-developers {
+	BACKGROUND-POSITION: -535px -180px
+}
+#page-header A#page-header-about {
+	DISPLAY: block; BACKGROUND: no-repeat -680px 0px; LEFT: 680px; WIDTH: 145px; POSITION: absolute; TOP: 0px; HEIGHT: 90px
+}
+#page-header A#page-header-about:hover {
+	BACKGROUND-POSITION: -680px -90px
+}
+#page-header A.page-header-about-active#page-header-about {
+	BACKGROUND-POSITION: -680px -180px
+}
+#page-header A#page-header-signin {
+	 no-repeat -825px 0px; LEFT: 825px; WIDTH: 153px; POSITION: absolute; TOP: 0px; HEIGHT: 39px
+}
+#page-header A#page-header-signin:hover {
+	BACKGROUND-POSITION: -825px -90px
+}
+#page-header A#page-header-register {
+ no-repeat -825px -39px; LEFT: 825px; WIDTH: 153px; POSITION: absolute; TOP: 39px; HEIGHT: 51px
+}
+#page-header A#page-header-register:hover {
+	BACKGROUND-POSITION: -825px -129px
+}
+#page-header #page-header-user {
+ no-repeat -825px -270px; LEFT: 825px; WIDTH: 153px; POSITION: absolute; TOP: 0px; HEIGHT: 31px
+}
+#page-header #page-header-user-inner {
+	POSITION: relative; HEIGHT: 31px
+}
+#page-header #page-header-user-inner SPAN {
+	DISPLAY: block; FONT-WEIGHT: bold; LEFT: 14px; OVERFLOW: hidden; WIDTH: 100px; COLOR: #000; POSITION: absolute; TOP: 9px; HEIGHT: 14px
+}
+#page-header #page-header-user A.signout {
+	DISPLAY: block; BACKGROUND: url(../icons/ico-pgheader-x.gif) no-repeat; LEFT: 122px; OVERFLOW: hidden; WIDTH: 14px; LINE-HEIGHT: 14px; POSITION: absolute; TOP: 8px; HEIGHT: 14px; outline: none
+}
+#page-header #page-header-user A.signout:hover {
+	BACKGROUND-POSITION: 0px -14px
+}
+#page-header #page-header-mywidgets {
+ no-repeat -825px -301px; LEFT: 825px; WIDTH: 153px; PADDING-TOP: 7px; POSITION: absolute; TOP: 31px; HEIGHT: 52px
+}
+#page-header #page-header-mywidgets A {
+	DISPLAY: block; PADDING-LEFT: 14px; FONT-SIZE: 10px; TEXT-INDENT: 0px; LINE-HEIGHT: 18px; TEXT-DECORATION: none
+}
+#page-header #page-header-mywidgets A:hover {
+	COLOR: #333; TEXT-DECORATION: underline
+}
+#page-header #signout-bubble {
+	Z-INDEX: 1; RIGHT: 2px; BACKGROUND: url(bkg-signout-bubble.jpg) no-repeat; WIDTH: 87px; POSITION: absolute; TOP: 26px; HEIGHT: 37px
+}
+#page-inner {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; PADDING-BOTTOM: 0px; LINE-HEIGHT: 1.6em; PADDING-TOP: 0px
+}
+#page-inner #page-banner {
+	WIDTH: 962px; POSITION: relative
+}
+#page-inner .pg-content-top {
+	BACKGROUND: url(bkg-mainpage-inner-tb.gif) no-repeat 0px 0px; MARGIN: 0px; OVERFLOW: hidden; WIDTH: 962px; HEIGHT: 9px
+}
+#page-inner .pg-content-top-subnav {
+	BACKGROUND: url(bkg-mainpage-inner-tb.gif) no-repeat 0px -18px; MARGIN: 0px; OVERFLOW: hidden; WIDTH: 962px; HEIGHT: 9px
+}
+#page-inner .pg-content-btm {
+	BACKGROUND: url(bkg-mainpage-inner-tb.gif) no-repeat 0px -9px; MARGIN: 0px; OVERFLOW: hidden; WIDTH: 962px; HEIGHT: 9px
+}
+#page-inner .pg-content-nav {
+	PADDING-RIGHT: 50px; BORDER-TOP: #d9d9d9 1px solid; PADDING-LEFT: 50px; BACKGROUND: url(bkg-mainpage-inner-b.gif) repeat-y; PADDING-BOTTOM: 0px; OVERFLOW: hidden; LINE-HEIGHT: 16px; PADDING-TOP: 0px; POSITION: relative; HEIGHT: 24px
+}
+#page-inner .pg-content-pane {
+	PADDING-RIGHT: 30px; PADDING-LEFT: 30px; BACKGROUND: url(bkg-mainpage-inner-b.gif) repeat-y; PADDING-BOTTOM: 10px; OVERFLOW: hidden; PADDING-TOP: 10px; POSITION: relative
+}
+#page-inner .pg-content-nav .pn-left {
+	LEFT: 50px; POSITION: absolute; TOP: 8px
+}
+#page-inner .pg-content-nav .pn-left A {
+	PADDING-LEFT: 16px; BACKGROUND: url(../icons/ico-footnav-blue-left.gif) no-repeat left 50%; TEXT-DECORATION: none
+}
+#page-inner .pg-content-nav .pn-right {
+	RIGHT: 50px; POSITION: absolute; TOP: 8px
+}
+#page-inner .pg-content-nav .pn-right A {
+	PADDING-RIGHT: 16px; BACKGROUND: url(../icons/ico-footnav-blue-right.gif) no-repeat right 50%; TEXT-DECORATION: none
+}
+#page-inner .pg-content-nav .pn-center {
+	LEFT: 380px; WIDTH: 200px; POSITION: absolute; TOP: 8px; TEXT-ALIGN: center
+}
+#page-inner .pg-content-nav .pn-center A {
+	COLOR: #999; TEXT-DECORATION: none
+}
+#page-inner .pg-content-main {
+	BORDER-RIGHT: #e1e1e1 1px solid; PADDING-RIGHT: 50px; PADDING-LEFT: 50px; BACKGROUND: #fff; PADDING-BOTTOM: 25px; MARGIN: 0px; OVERFLOW: hidden; BORDER-LEFT: #e1e1e1 1px solid; COLOR: #666; LINE-HEIGHT: 1.7em; PADDING-TOP: 0px
+}
+#page-inner .pg-content-main {
+	MIN-HEIGHT: 200px
+}
+#page-inner .main-sidebar {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 50px; PADDING-BOTTOM: 25px; PADDING-TOP: 25px
+}
+#page-inner #content {
+	FLOAT: left; WIDTH: 620px; PADDING-TOP: 10px
+}
+#page-inner #sidebar {
+	FLOAT: right; WIDTH: 250px; PADDING-TOP: 10px
+}
+#page-inner H2 {
+	FONT-SIZE: 26px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #ef5319; FONT-FAMILY: arial,helvetica,lucida,tahoma,verdana,sans-serif
+}
+#page-inner H3 {
+	COLOR: #464646
+}
+#page-inner H4 {
+	FONT-SIZE: 14px; COLOR: #464646
+}
+#page-footer {
+	MARGIN: 20px 0px; WIDTH: 978px; POSITION: relative; HEIGHT: 232px
+}
+#page-footer #foot-left {
+	BACKGROUND: url(bkg-mainpage-footer-c.jpg) no-repeat 0px 0px; LEFT: 0px; OVERFLOW: hidden; WIDTH: 20px; POSITION: absolute; TOP: 0px; HEIGHT: 232px
+}
+#page-footer #foot-right {
+	BACKGROUND: url(bkg-mainpage-footer-c.jpg) no-repeat -20px 0px; LEFT: 958px; OVERFLOW: hidden; WIDTH: 20px; POSITION: absolute; TOP: 0px; HEIGHT: 232px
+}
+#page-footer #foot-main {
+	BACKGROUND: url(bkg-mainpage-footer-b.jpg) repeat-x; LEFT: 20px; OVERFLOW: hidden; WIDTH: 938px; POSITION: absolute; TOP: 0px; HEIGHT: 232px
+}
+#page-footer #foot-main-inner {
+	POSITION: relative; HEIGHT: 232px
+}
+#page-footer A {
+	FONT-SIZE: 11px; TEXT-DECORATION: none
+}
+#page-footer A:hover {
+	COLOR: #333; TEXT-DECORATION: underline
+}
+#page-footer .foot-linkblock {
+	WIDTH: 150px; POSITION: absolute; TOP: 28px
+}
+#page-footer .foot-linkblock H4 {
+	FONT-SIZE: 13px; MARGIN: 0px 0px 4px; COLOR: #666
+}
+#page-footer .foot-linkblock A {
+	DISPLAY: block; PADDING-BOTTOM: 2px
+}
+#page-footer .foot-platform {
+	LEFT: 38px
+}
+#page-footer .foot-launchpad {
+	LEFT: 223px
+}
+#page-footer .foot-widgetmedia {
+	LEFT: 428px
+}
+#page-footer .foot-developers {
+	LEFT: 633px
+}
+#page-footer .foot-outstory {
+	LEFT: 828px
+}
+#page-footer #copyright {
+	FONT-SIZE: 11px; LEFT: 38px; WIDTH: 600px; COLOR: #666; POSITION: absolute; TOP: 195px
+}
+#page-footer #copyright A {
+	MARGIN: 0px 10px
+}
+#page-footer #foot-rss {
+	RIGHT: 128px; WIDTH: 40px; POSITION: absolute; TOP: 195px; TEXT-ALIGN: right
+}
+#page-footer #topofpage {
+	RIGHT: 38px; WIDTH: 75px; POSITION: absolute; TOP: 195px; TEXT-ALIGN: right
+}
+#page-footer #topofpage A {
+	PADDING-RIGHT: 10px; no-repeat right 50%
+}
+#page-submenu {
+	PADDING-LEFT: 51px; POSITION: relative; HEIGHT: 40px
+}

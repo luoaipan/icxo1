@@ -1,0 +1,103 @@
+@charset "gb2312";
+body {font-size:12px;color:#000;line-height:20px;}
+
+P  {FONT-SIZE: 12px;COLOR: #000000;LINE-HEIGHT: 160%;font-weight: normal;}
+td {FONT-SIZE: 12px;COLOR: #000000;LINE-HEIGHT: 160%;font-weight: normal}
+
+a:link    { FONT-SIZE: 12px;color: #000000; text-decoration: none}
+a:visited { FONT-SIZE: 12px;COLOR: #000000; text-decoration: none}
+a:hover   { FONT-SIZE: 12px;COLOR: #000000; text-decoration: none}
+a:active  { FONT-SIZE: 12px;color: #000000; text-decoration: none}
+
+.bold12          { FONT-SIZE: 13px;color: #013366; text-decoration: none;font-weight: bolder;LINE-HEIGHT: 120%;}
+.bold12 :link    { FONT-SIZE: 13px;color: #013366; text-decoration: none;font-weight: bolder;LINE-HEIGHT: 120%;}
+.bold12 :visited { FONT-SIZE: 13px;COLOR: #013366; text-decoration: none;font-weight: bolder;LINE-HEIGHT: 120%;}
+.bold12 :hover   { FONT-SIZE: 13px;COLOR: #013366; text-decoration: none;font-weight: bolder;LINE-HEIGHT: 120%;}
+.bold12 :active  { FONT-SIZE: 13px;color: #013366; text-decoration: none;font-weight: bolder;LINE-HEIGHT: 120%;}
+
+.bold14          { FONT-SIZE: 14px;color: #000000; text-decoration: none;font-weight: bolder}
+.bold14 :link    { FONT-SIZE: 14px;color: #000000; text-decoration: none;font-weight: bolder}
+.bold14 :visited { FONT-SIZE: 14px;COLOR: #000000; text-decoration: none;font-weight: bolder}
+.bold14 :hover   { FONT-SIZE: 14px;COLOR: #000000; text-decoration: none;font-weight: bolder}
+.bold14 :active  { FONT-SIZE: 14px;color: #000000; text-decoration: none;font-weight: bolder}
+
+.boldr          {FONT-SIZE: 12px;COLOR: #8D3124;font-weight: bolder} 
+.boldr:link     {FONT-SIZE: 12px;COLOR: #8D3124;font-weight: bolder} 
+.boldr:visited  {FONT-SIZE: 12px;COLOR: #8D3124;font-weight: bolder} 
+.boldr:hover    {FONT-SIZE: 12px;COLOR: #8D3124;font-weight: bolder} 
+.boldr:active   {FONT-SIZE: 12px;COLOR: #8D3124;font-weight: bolder}
+
+.bold          {FONT-SIZE: 12px;COLOR: #000000;font-weight: bolder} 
+.bold:link     {FONT-SIZE: 12px;COLOR: #000000;font-weight: bolder} 
+.bold:visited  {FONT-SIZE: 12px;COLOR: #000000;font-weight: bolder} 
+.bold:hover    {FONT-SIZE: 12px;COLOR: #000000;font-weight: bolder} 
+.bold:active   {FONT-SIZE: 12px;COLOR: #000000;font-weight: bolder}
+
+.gray          {FONT-SIZE: 12px;COLOR: #000000;} 
+.gray:link     {FONT-SIZE: 12px;COLOR: #636363;font-weight: bolder} 
+.gray:visited  {FONT-SIZE: 12px;COLOR: #636363;font-weight: bolder} 
+.gray:hover    {FONT-SIZE: 12px;COLOR: #636363;font-weight: bolder} 
+.gray:active   {FONT-SIZE: 12px;COLOR: #636363;font-weight: bolder}
+
+.black          {FONT-SIZE: 12px;COLOR: #000000;} 
+.black:link     {FONT-SIZE: 12px;COLOR: #000000;} 
+.black:visited  {FONT-SIZE: 12px;COLOR: #000000;} 
+.black:hover    {FONT-SIZE: 12px;COLOR: #000000;} 
+.black:active   {FONT-SIZE: 12px;COLOR: #000000;}
+
+.tab2 {	border: 1px solid #C0C0C0;margin-top:10px;margin-bottom:0px;}
+.tab3 {	border: 1px solid #6E6BA6;margin-top:10px;margin-bottom:0px;}
+
+.blue          {FONT-SIZE: 12px;COLOR: #004388} 
+.blue:link     {FONT-SIZE: 12px;COLOR: #004388;} 
+.blue:visited  {FONT-SIZE: 12px;COLOR: #004388;} 
+.blue:hover    {FONT-SIZE: 12px;COLOR: #004388; text-decoration: underline;} 
+.blue:active   {FONT-SIZE: 12px;COLOR: #004388;}
+
+.ablue          {FONT-SIZE: 12px;COLOR: #004388;LINE-HEIGHT: 160%;} 
+.ablue:link     {FONT-SIZE: 12px;COLOR: #004388;LINE-HEIGHT: 160%; } 
+.ablue:visited  {FONT-SIZE: 12px;COLOR: #004388;LINE-HEIGHT: 160%; } 
+.ablue:hover    {FONT-SIZE: 12px;COLOR: #004388;LINE-HEIGHT: 160%;} 
+.ablue:active   {FONT-SIZE: 12px;COLOR: #004388;LINE-HEIGHT: 160%; }
+
+.white_b          {FONT-SIZE: 13px;COLOR: #ffffff;font-weight: bolder} 
+.white_b:link     {FONT-SIZE: 13px;COLOR: #ffffff;font-weight: bolder} 
+.white_b:visited  {FONT-SIZE: 13px;COLOR: #ffffff;font-weight: bolder} 
+.white_b:hover    {FONT-SIZE: 13px;COLOR: #ffffff;font-weight: bolder} 
+.white_b:active   {FONT-SIZE: 13px;COLOR: #ffffff;font-weight: bolder}
+
+.white_d          {FONT-SIZE: 16px;COLOR: #ffffff;font-weight: bolder} 
+.white_d:link     {FONT-SIZE: 16px;COLOR: #ffffff;font-weight: bolder} 
+.white_d:visited  {FONT-SIZE: 16px;COLOR: #ffffff;font-weight: bolder} 
+.white_d:hover    {FONT-SIZE: 16px;COLOR: #ffffff;font-weight: bolder} 
+.white_d:active   {FONT-SIZE: 16px;COLOR: #ffffff;font-weight: bolder}
+
+.white          {FONT-SIZE: 12px;COLOR: #ffffff;} 
+.white:link     {FONT-SIZE: 12px;COLOR: #ffffff;} 
+.white:visited  {FONT-SIZE: 12px;COLOR: #ffffff;} 
+.white:hover    {FONT-SIZE: 12px;COLOR: #ffffff;} 
+.white:active   {FONT-SIZE: 12px;COLOR: #ffffff;}
+
+.black14          {FONT-SIZE: 14px;COLOR: #000000;} 
+.black14:link     {FONT-SIZE: 14px;COLOR: #000000;} 
+.black14:visited  {FONT-SIZE: 14px;COLOR: #000000;} 
+.black14:hover    {FONT-SIZE: 14px;COLOR: #000000;} 
+.black14:active   {FONT-SIZE: 14px;COLOR: #000000;}
+ 
+.summary         {FONT-SIZE: 12px;LINE-HEIGHT: 140%;COLOR: #000000;font-family:宋体} 
+.summary:link    {FONT-SIZE: 18px;LINE-HEIGHT: 150%;COLOR: #000000;font-weight: bold;font-family:黑体}
+.summary:visited {FONT-SIZE: 18px;LINE-HEIGHT: 150%;COLOR: #000000;font-weight: bold;font-family:黑体} 
+.summary:hover   {FONT-SIZE: 18px;LINE-HEIGHT: 150%;COLOR: #000000;font-weight: bold;font-family:黑体}   
+.summary:active  {FONT-SIZE: 18px;LINE-HEIGHT: 150%;COLOR: #000000;font-weight: bold;font-family:黑体} 
+
+.en        {font-family: Arial, Helvetica, sans-serif;	font-size: 11px;color: #004388;}
+.en:link   {font-family: Arial, Helvetica, sans-serif;	font-size: 11px;color: #004388;}
+.en:visited{font-family: Arial, Helvetica, sans-serif;	font-size: 11px;color: #004388;}
+.en:hover  {font-family: Arial, Helvetica, sans-serif;	font-size: 11px;color: #004388;}
+.en:active {font-family: Arial, Helvetica, sans-serif;	font-size: 11px;color: #004388;}
+
+.en_r        {font-family: Arial, Helvetica, sans-serif;font-weight: bold;font-size: 11px;color: #DC5818;LINE-HEIGHT: 120%;}
+.en_r:link   {font-family: Arial, Helvetica, sans-serif;font-weight: bold;font-size: 11px;color: #DC5818;LINE-HEIGHT: 120%;}
+.en_r:visited{font-family: Arial, Helvetica, sans-serif;font-weight: bold;font-size: 11px;color: #DC5818;LINE-HEIGHT: 120%;}
+.en_r:hover  {font-family: Arial, Helvetica, sans-serif;font-weight: bold;font-size: 11px;color: #DC5818;LINE-HEIGHT: 120%;}
+.en_r:active {font-family: Arial, Helvetica, sans-serif;font-weight: bold;font-size: 11px;color: #DC5818;LINE-HEIGHT: 120%;}

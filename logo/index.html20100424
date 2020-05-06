@@ -1,0 +1,165 @@
+<%@ page contentType="text/html; charset=gbk"%>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>ICXO Channel Detail</title>
+<style type="text/css">
+<!--
+body,td,th {
+	font-family: 宋体;
+	font-size: 12px;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.STYLE6 {font-size: 14px}
+.STYLE7 {font-size: 14}
+.STYLE8 {
+	color: #FF0000;
+	font-weight: bold;
+}
+-->
+</style></head>
+
+
+<body leftmargin=0 topmargin=0>
+<table width="870" border="0" cellpadding="3" cellspacing="3">
+  
+  <tr>
+    <td  align="center"><Iframe src="210.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></td>
+    <td  align="center"><iframe src="192.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe></td>
+    <td align="center"><iframe src="193.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe></td>  
+    <td align="center"><iframe src="190.html" width="150" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe></td>
+  </tr>
+  
+   <tr>  
+    <td align="center"><iframe src="195.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe></td>
+    <td align="center"><iframe src="196.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe></td>
+    <td align="center"><iframe src="208.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe></td>
+    <td align="center"><iframe src="209.html" width="150" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe></td>
+   </tr>
+  
+   <tr>
+    <td align="center"><iframe src="198.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe></td>
+    <td align="center"><iframe src="199.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe></td>
+    <td align="center"><iframe src="200.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe></td>  
+    <td align="center"><iframe src="207.html" width="150" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe></td>
+   </tr>    
+  
+   <tr>    
+    <td align="center"><iframe src="211.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe></td>
+    <td align="center"><iframe src="212.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe></td>
+    <td align="center"><iframe src="213.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe></td>  
+    <td align="center"><iframe src="197.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe></td>
+   </tr>
+   <tr>     
+     <td align="center"><span class="STYLE7">
+       <iframe src="bbc.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe>
+     </span></td> 
+     <td align="center"><iframe src="96bj.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe></td>
+     <td align="center"><iframe src="98bj.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe></td>
+     <td height="47" align="center" valign="middle"><iframe src="97bj.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe></td>
+   </tr>
+   <tr>
+     <td align="center">&nbsp;</td>
+     <td align="center">&nbsp;</td>
+     <td align="center">&nbsp;</td>
+     <td height="50" align="center" valign="middle">&nbsp;</td>
+   </tr>
+   <tr>
+     <td colspan="3" align="center"><table width="90%" border="1" cellpadding="1" cellspacing="0" bordercolor="#CCCCCC">
+       <tr>
+         <td height="22"><div align="left"></div></td>
+       </tr>
+       <tr>
+         <td height="11">6.15 周五值班：17:30------23:00<span class="STYLE6"> 韩修国：13811926845</span></td>
+       </tr>
+       <tr>
+         <td height="12">6.16 周六值班：全天<span class="STYLE6"> 曹立新：13718171982 </span></td>
+       </tr>
+       <tr>
+         <td height="23">6.17 周日值班：全天<span class="STYLE6"> 许立新：13520839353</span></td>
+       </tr>
+       <tr>
+         <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+           <tr>
+             <td height="20">&nbsp;</td>
+             <td>&nbsp;</td>
+             <td>&nbsp;</td>
+             <td>&nbsp;</td>
+             <td>&nbsp;</td>
+             <td>&nbsp;</td>
+           </tr>
+           <tr>
+             <td height="20">&nbsp;</td>
+             <td colspan="5"><div align="center" class="STYLE8"></div></td>
+             </tr>
+           <tr>
+             <td height="20">&nbsp;</td>
+             <td>&nbsp;</td>
+             <td>&nbsp;</td>
+             <td>&nbsp;</td>
+             <td>&nbsp;</td>
+             <td>&nbsp;</td>
+           </tr>
+           <tr>
+             <td height="20">&nbsp;</td>
+             <td>&nbsp;</td>
+             <td>&nbsp;</td>
+             <td>&nbsp;</td>
+             <td>&nbsp;</td>
+             <td>&nbsp;</td>
+           </tr>
+           
+         </table></td>
+       </tr>
+       <tr>
+         <td>备注：值班QQ群 38425776 相关负责人：潘炼 13501805973 张万庆13691283268 王平13811370851 </td>
+       </tr>
+       <tr>
+         <td>机房电话：010--62140360/69</td>
+       </tr>
+       
+     </table></td>
+     <td height="100" align="center" valign="middle"><div align="center">
+       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <tr>
+           <td height="150"><span class="STYLE6">北京技术联系方式：<br />
+                 <br />
+             
+             许立新：13520839353<br />
+             
+             
+             13833682412<br />
+             
+             曹立新：13718171982
+             <br />
+             
+             韩修国：13811926845</span></td>
+         </tr>
+       </table>
+     </div></td>
+   </tr>
+  </table>
+
+
+</body>
+</html>
+<script language="JavaScript" type="text/javascript"> 
+<!-- 
+var pc = 0; 
+load(); 
+function load() { 
+pc+=1; 
+time = setTimeout("load()",500); 
+if (pc > 500) 
+{ 
+window.location.reload();
+clearTimeout(time); 
+} 
+}
+//-->
+</script>

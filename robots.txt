@@ -1,0 +1,6 @@
+User-agent: *
+User-agent: ltx71 - (http://ltx71.com/)
+Disallow: /some/path/on/your/site/
+Disallow: /*specialpath*/
+Disallow: /specific/file/on/your/site.html
+

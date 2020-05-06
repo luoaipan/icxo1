@@ -1,0 +1,27 @@
+document.write('<script src=\"http://cast.ra.icast.cn/p/?id=3250\"><\/script>') 
+
+document.writeln("<script type=\"text\/javascript\"><!--");
+
+document.writeln("\/* 新闻页右侧daily_300x250, 创建于09-10-20  *\/");
+
+document.writeln("ac_as_id = 47771;");
+
+document.writeln("ac_width = 300;");
+
+document.writeln("ac_height = 250;");
+
+document.writeln("ac_format = 0;");
+
+document.writeln("ac_mode = 1;");
+
+document.writeln("ac_click_track_url = \"\";");
+
+document.writeln("\/\/-->");
+
+document.writeln("<\/script>");
+
+document.writeln("<script type=\"text\/javascript\"");
+
+document.writeln("src=\"http:\/\/static.acs86.com\/g.js\">");
+
+document.writeln("<\/script>");

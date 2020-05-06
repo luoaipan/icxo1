@@ -1,0 +1,174 @@
+a {
+	font-size: 12px;
+	color: #000000;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #333333;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+
+.o1         {FONT-SIZE: 15px;COLOR: #D96125;FONT-FAMILY: "黑体";line-height:25px;font-weight:bold;text-decoration:none;} 
+.o1:link     {FONT-SIZE: 15px;COLOR: #D96125;FONT-FAMILY: "黑体";line-height:25px;font-weight:bold;text-decoration:none;} 
+.o1:visited  {FONT-SIZE: 15px;COLOR: #D96125;FONT-FAMILY: "黑体";line-height:25px;font-weight:bold;text-decoration:none;} 
+.o1:hover    {FONT-SIZE: 15px;COLOR: #D96125;FONT-FAMILY: "黑体";line-height:25px;font-weight:bold;text-decoration:none;} 
+.o1:active   {FONT-SIZE: 15px;COLOR: #D96125;FONT-FAMILY: "黑体";line-height:25px;font-weight:bold;text-decoration:none;}
+
+.b1         {FONT-SIZE: 14px;COLOR: #10377C;FONT-FAMILY: "宋体";line-height:25px;font-weight:bold;text-decoration:none;} 
+.b1:link     {FONT-SIZE: 14px;COLOR: #10377C;FONT-FAMILY: "宋体";line-height:25px;font-weight:bold;text-decoration:none;} 
+.b1:visited  {FONT-SIZE: 14px;COLOR: #10377C;FONT-FAMILY: "宋体";line-height:25px;font-weight:bold;text-decoration:none;} 
+.b1:hover    {FONT-SIZE: 14px;COLOR: #10377C;FONT-FAMILY: "宋体";line-height:25px;font-weight:bold;text-decoration:none;} 
+.b1:active   {FONT-SIZE: 14px;COLOR: #10377C;FONT-FAMILY: "宋体";line-height:25px;font-weight:bold;text-decoration:none;}
+
+.STYLE5 {
+	FONT-SIZE: 14px; FONT-WEIGHT: bold; COLOR: #3A678E; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+
+.STYLE8 {FONT-SIZE: 12px; FONT-WEIGHT: bold; COLOR: #3A678E; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none}
+.STYLE8:link {FONT-SIZE: 12px; FONT-WEIGHT: bold; COLOR: #3A678E; FONT-FAMILY: "宋体"; TEXT-DECORATION: none; }
+.STYLE8:visited {FONT-SIZE: 12px; FONT-WEIGHT: bold; COLOR: #3A678E; FONT-FAMILY: "宋体"; TEXT-DECORATION: none; }
+.STYLE8:hover {FONT-SIZE: 12px; FONT-WEIGHT: bold; COLOR: #6699CC; FONT-FAMILY: "宋体"; TEXT-DECORATION: underline; }
+
+.STYLEHEAD {FONT-SIZE: 16px; FONT-WEIGHT: bold; COLOR: #3A678E; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none}
+.STYLEHEAD:link {FONT-SIZE: 16px; FONT-WEIGHT: bold; COLOR: #3A678E; FONT-FAMILY: "宋体"; TEXT-DECORATION: none; }
+.STYLEHEAD:visited {FONT-SIZE: 16px; FONT-WEIGHT: bold; COLOR: #3A678E; FONT-FAMILY: "宋体"; TEXT-DECORATION: none; }
+.STYLEHEAD:hover {FONT-SIZE: 16px; FONT-WEIGHT: bold; COLOR: #6699CC; FONT-FAMILY: "宋体"; TEXT-DECORATION: underline; }
+
+.STYLE9 {FONT-SIZE: 12px }
+.STYLE9:link {
+	FONT-SIZE: 12px; FONT-WEIGHT: bold; COLOR: #3A678E; FONT-FAMILY: "宋体"; TEXT-DECORATION: none; 
+}
+.STYLE9:visited {
+	FONT-SIZE: 12px; FONT-WEIGHT: bold; COLOR: #3A678E; FONT-FAMILY: "宋体"; TEXT-DECORATION: none; 
+}
+.STYLE9:hover {
+	FONT-SIZE: 12px; FONT-WEIGHT: bold; COLOR: #3A678E; FONT-FAMILY: "宋体"; TEXT-DECORATION: none; 
+}
+.STYLE9 img {BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-BOTTOM: #000 1px solid; margin-right:5px}
+
+.imgst img  {BORDER-RIGHT: #ccc 1px solid; BORDER-TOP: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; BORDER-BOTTOM: #ccc 1px solid; margin-top:5px
+}
+
+.ttzy         {FONT-SIZE: 12px;LINE-HEIGHT: 18px;COLOR: #666666;font-family:宋体} 
+.ttzy:link    {FONT-SIZE: 12px;LINE-HEIGHT: 150%;COLOR: #3A678E;font-weight: bold;font-family:宋体}
+.ttzy:visited {FONT-SIZE: 12px;LINE-HEIGHT: 150%;COLOR: #3A678E;font-weight: bold;font-family:宋体} 
+.ttzy:active  {FONT-SIZE: 12px;LINE-HEIGHT: 150%;COLOR: #3A678E;font-weight: bold;font-family:宋体} 
+
+
+.biao2 {
+	FONT-SIZE: 14px; FONT-WEIGHT: bold; COLOR: #000000; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.dabiao {
+	FONT-SIZE: 18px; COLOR: #000000; LINE-HEIGHT: 25px; FONT-FAMILY: "方正大标宋简体"; TEXT-DECORATION: none
+}
+.xiaobiao {
+	FONT-SIZE: 6px; FONT-WEIGHT: bold; COLOR: #000000; LINE-HEIGHT: 14px; FONT-FAMILY: "方正大标宋简体"; TEXT-DECORATION: none
+}
+.paihang {
+	FONT-SIZE: 14px; FONT-WEIGHT: bold; COLOR: #000000; LINE-HEIGHT: 18px; FONT-FAMILY: "黑体"; TEXT-DECORATION: none
+}
+
+.font_cj1 {FONT-SIZE: 12px; COLOR: #3A678E; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none}
+.font_cj1:hover  {FONT-SIZE: 12px; COLOR: #6699CC; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: underline}
+
+.font_cj2 {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.font_cj3 {FONT-SIZE: 14px; COLOR: #3A678E; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none}
+.font_cj3:link {FONT-SIZE: 14px; COLOR: #3A678E; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none}
+.font_cj3:hover  {FONT-SIZE: 14px; COLOR: #6699CC; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: underline}
+
+.font_yw1 {
+	FONT-SIZE: 14px; COLOR: #000000; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.font_rw1 {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-WEIGHT: bold; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+
+.font_rw1         {FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none} 
+.font_rw1:link     {FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none} 
+.font_rw1:visited  {FONT-SIZE: 12px; COLOR: #ffffff; FONT-WEIGHT: bold; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none} 
+.font_rw1:hover    {FONT-SIZE: 12px; COLOR: #ffffff; FONT-WEIGHT: bold; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none} 
+.font_rw1:active   {FONT-SIZE: 12px; COLOR: #ffffff; FONT-WEIGHT: bold; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none}
+
+.search:         {BACKGROUND-IMAGE: url(http://www.icxo.com/icxo/images/searchbj1.jpg); BACKGROUND-REPEAT: no-repeat} 
+.search:link     {BACKGROUND-IMAGE: url(http://www.icxo.com/icxo/images/searchbj1.jpg); BACKGROUND-REPEAT: no-repeat} 
+.search:visited  {BACKGROUND-IMAGE: url(http://www.icxo.com/icxo/images/searchbj1.jpg); BACKGROUND-REPEAT: no-repeat} 
+.search:hover    {BACKGROUND-IMAGE: url(http://www.icxo.com/icxo/images/searchbj1.jpg); BACKGROUND-REPEAT: no-repeat} 
+.search:active   {BACKGROUND-IMAGE: url(http://www.icxo.com/icxo/images/searchbj1.jpg); BACKGROUND-REPEAT: no-repeat}
+
+.font_rw2 {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.font_rw2:link  {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.font_rw2:visited {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.font_rw2:hover {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.font_rw2:active {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+
+.font_daohang {
+	FONT-SIZE: 12px; COLOR: #4A4949; FONT-WEIGHT: bold; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.font_zhuanti {
+	FONT-SIZE: 12px; COLOR: #4A4949; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.font_denglu {
+	FONT-SIZE: 14px; COLOR: #4A4949; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+body,td,th {
+	font-size: 12px;
+}
+.font_ph1 {
+	FONT-SIZE: 12px; COLOR: #3A678E; LINE-HEIGHT: 22px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.font_ph1:link {
+	FONT-SIZE: 12px; COLOR: #3A678E; LINE-HEIGHT: 22px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.font_ph1:visited {
+	FONT-SIZE: 12px; COLOR: #3A678E; LINE-HEIGHT: 22px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.font_ph1:hover  {
+	FONT-SIZE: 12px; COLOR: #3A678E; LINE-HEIGHT: 22px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.font_ph1:active {
+	FONT-SIZE: 12px; COLOR: #3A678E; LINE-HEIGHT: 22px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+body {
+	background-color: #FFFFFF;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.font_search {
+	FONT-SIZE: 12px; COLOR: #FFffff; FONT-WEIGHT: bold; LINE-HEIGHT: 14px; FONT-FAMILY: "黑体"; TEXT-DECORATION: none
+}
+
+.mbzx          {FONT-SIZE: 12px;COLOR: #3A678E;FONT-FAMILY: "宋体";text-decoration:underline;} 
+.mbzx:link     {FONT-SIZE: 12px;COLOR: #3A678E;FONT-FAMILY: "宋体";text-decoration:underline;} 
+.mbzx:visited  {FONT-SIZE: 12px;COLOR: #3A678E;FONT-FAMILY: "宋体";text-decoration:underline;} 
+.mbzx:hover    {FONT-SIZE: 12px;COLOR: #3A678E;FONT-FAMILY: "宋体";text-decoration:none;} 
+.mbzx:active   {FONT-SIZE: 12px;COLOR: #3A678E;FONT-FAMILY: "宋体";text-decoration:none;}
+
+.STYLEHEADNEW {FONT-SIZE: 14px; FONT-WEIGHT: bold; COLOR: #3A678E; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none}
+.STYLEHEADNEW:link {FONT-SIZE: 14px; FONT-WEIGHT: bold; COLOR: #3A678E; FONT-FAMILY: "宋体"; TEXT-DECORATION: none; }
+.STYLEHEADNEW:visited {FONT-SIZE: 14px; FONT-WEIGHT: bold; COLOR: #3A678E; FONT-FAMILY: "宋体"; TEXT-DECORATION: none; }
+.STYLEHEADNEW:hover {FONT-SIZE: 14px; FONT-WEIGHT: bold; COLOR: #6699CC; FONT-FAMILY: "宋体"; TEXT-DECORATION: underline; }
+
+.STYLEHEADIND {FONT-SIZE: 14px; FONT-WEIGHT: bold; COLOR: #000000; LINE-HEIGHT: 18px; FONT-FAMILY: "宋体"; TEXT-DECORATION: none}
+.STYLEHEADIND:link {FONT-SIZE: 14px; FONT-WEIGHT: bold; COLOR: #000000; FONT-FAMILY: "宋体"; TEXT-DECORATION: none; }
+.STYLEHEADIND:visited {FONT-SIZE: 14px; FONT-WEIGHT: bold; COLOR: #000000; FONT-FAMILY: "宋体"; TEXT-DECORATION: none; }
+.STYLEHEADIND:hover {FONT-SIZE: 14px; FONT-WEIGHT: bold; COLOR: #000000; FONT-FAMILY: "宋体"; TEXT-DECORATION: underline; }

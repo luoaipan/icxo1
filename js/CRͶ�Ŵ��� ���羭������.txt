@@ -1,0 +1,11 @@
+弹窗
+==========================
+<!-- ShowCode:48 Begin -->
+<script language="javascript" type="text/javascript" src="http://c.comreach.net/s?z=crn&la=42" ></script>
+<!-- ShowCode:48 End -->
+
+百度
+
+<!-- 广告位：广告轮播 -->
+<script type="text/javascript" >BAIDU_CLB_SLOT_ID = "145918";</script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/o.js"></script>

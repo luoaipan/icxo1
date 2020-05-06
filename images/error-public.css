@@ -1,0 +1,6 @@
+.banner-error {
+	BACKGROUND: url(bkg-banner-404.jpg) no-repeat 0px 0px; HEIGHT: 298px
+}
+.banner-error H2 {
+	DISPLAY: none
+}

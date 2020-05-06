@@ -1,0 +1,189 @@
+<%@ page contentType="text/html; charset=gb2312" %>
+<% com.myniko.util.ReadFromUrl readFromURL = new com.myniko.util.ReadFromUrl(); %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" class="IE7" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>世界经理人—世界第一商人门户 企业领袖互动平台 职业经理人的乐园</title>
+<meta name="Description" content="世界经理人网站致力于为中国经理人培养国际竞争优势，引导中国经理人实现卓越管理。为高端经理人士提供最新的商业资讯、财经数据和互动平台，协助职业经理人做出明智的商务决定。浏览我们的网站，你可以找到全球最先进，并切合中国实际的管理思想和经验。同时，世界经理人集团推出集合了商务管家、个人门户、商务旅行、猎头招聘、人才测评、管理文摘、商业情报、商务沙龙、商人名片、经理博客等几乎所有您想要的约12种工具，它将发挥强大的资源管理能力，助您轻松掌控繁杂的商务生活。本站提供的与卓越经理人互动交流的有效平台，将共同推动中国管理与全球一流的管理实践接轨" /> 
+<meta name="Keywords" content="世界经理人,职业经理人,中国经理人,管理,经理人,企业管理,创业, Chief Executive, World Executive, manager, management,boss,business, BBC,BLOG,CEO,CFO,CTO, CMO, CIO,MBA,商务管家、个人门户、商务旅行、猎头招聘、人才测评、管理文摘、商业情报、商务沙龙、商人名片、经理博客,世界媒体实验室,世界品牌实验室,人力资本实验室" />
+<LINK href="images/style.css" type=text/css rel=stylesheet>
+<script language="javascript" type="text/javascript" src="/ajaxshow.js"></script>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_changeProp1() { //v6.0
+document.form1.action=document.form1.select.value;
+}
+function MM_changeProp2() { //v6.0
+document.form1.username.value=document.form1.uname.value;
+document.form1.password.value=document.form1.upw.value;
+}
+//-->
+</script>
+<script language="JavaScript">
+	function doChange(id){
+		document.googlesearchform.searchwordtemp.value=id;
+		temp=new Array();
+		temp[1]="资讯";
+		temp[2]="论坛";
+		temp[3]="管家";
+		temp[4]="文库";
+		temp[5]="名片";
+		temp[6]="沙龙";
+		temp[7]="情报";
+
+		for(i=1;i<8;i++){
+				var tid="stop"+i;
+			if(i==id){
+				
+				document.getElementById(tid).className="wBt";
+				
+			}else{
+				
+				document.getElementById(tid).className="";
+				
+			}
+		}
+	}
+	function doGoogleSearch(){
+		temp=document.googlesearchform.searchwordtemp.value;
+		searchword=document.googlesearchform.searchword.value;
+		if(temp==1){
+		window.open("http://www.icxo.com/searchown.html?type=allicxo&searchword="+searchword,"_blank");
+		}
+		if(temp==2){
+		//window.open("http://www.icxo.com/searchown.html?type=bbs&searchword="+searchword,"_blank");
+			window.open("http://bbs.icxo.com/search.php?srchtxt="+searchword+"&srchtype=title&srchfilter=all&srchfrom=0&orderby=lastpost&ascdesc=desc&srchfid[]=all&searchsubmit=yes","_blank");
+		}
+		if(temp==3){
+	//管家	window.open("http://biz.icxo.com/searchown.html?type=blog&searchword="+searchword,"_blank");		
+	window.open("http://my.icxo.com/batch.search.php?searchkey="+searchword+"&type=&subjectsearch=true","_blank");
+		}
+		if(temp==4){
+	//	window.open("http://biz.icxo.com/searchown.html?type=depot&searchword="+searchword,"_blank");		
+	window.open("http://depot.icxo.com/search.php?srchtxt="+searchword+"&srchtype=title&srchfilter=all&srchfrom=0&orderby=lastpost&ascdesc=desc&srchfid[]=all&searchsubmit=yes","_blank");
+		}
+		if(temp==5){
+	//	window.open("http://biz.icxo.com/searchown.html?type=card&searchword="+searchword,"_blank");		
+	window.open("http://card.icxo.com/lunecesearch.do?action=sreach&keyWord="+searchword+"&searchType=1","_blank");
+		}
+		if(temp==6){
+		//window.open("http://biz.icxo.com/searchown.html?type=salon&searchword="+searchword,"_blank");		
+		window.open("http://salon.icxo.com/search.do?key="+searchword,"_blank");
+		}
+		if(temp==7){
+		//window.open("http://biz.icxo.com/searchown.html?type=bi&searchword="+searchword,"_blank");	
+		window.open("http://bi.icxo.com/search.jsp?keyword="+searchword+"&encoding=GBK&image.x=24&image.y=7","_blank");
+		}
+
+	}
+	</script>
+<style type="text/css">
+<!--
+.STYLE1 {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+#Layer1 {
+	position:absolute;
+	width:95px;
+	height:49px;
+	z-index:1;
+	left: 340px;
+	top: -5px;
+}
+-->
+</style>
+</head>
+<table width="988" border="0" align="center" cellpadding="0" cellspacing="0" background="images/tbj.jpg">
+    <tr>
+      <td width="222" height="104" align="right"><a style="cursor:pointer" onClick="window.external.AddFavorite('http://www.icxo.com','世界经理人网站[ICXO.COM]');"><img src="images/icxologo.gif" alt="世界经理人网站-加入收藏" width="202" height="104" border="0" /></a></td>
+      <td align="center" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td height="40" align="center"><table width="100%" height="40" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td width="98">&nbsp;</td>
+                  <td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td align="left"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <td width="45" height="20" align="right" valign="bottom" class="search"><a onclick="javaScript:doChange('2')" onmousemove="doChange('2')" class="font_rw1">论坛</a><a class="font_rw2"> |</a></td>
+                              <td width="45" align="right" valign="bottom" class="search"><a onclick="javaScript:doChange('3')" onmousemove="doChange('3')" class="font_rw1">管家</a><a class="font_rw2"> |</a></td>
+                              <td width="45" align="right" valign="bottom" class="search"><a onclick="javaScript:doChange('1')" onmousemove="doChange('1')" class="font_rw1">资讯</a><a class="font_rw2"> |</a></td>
+                              <td width="45" align="right" valign="bottom" class="search"><a onclick="javaScript:doChange('4')" onmousemove="doChange('4')" class="font_rw1">文库</a><a class="font_rw2"> |</a></td>
+                              <td width="45" align="right" valign="bottom" class="search"><a onclick="javaScript:doChange('5')" onmousemove="doChange('5')" class="font_rw1">名片</a><a class="font_rw2"> |</a></td>
+                              <td width="45" align="right" valign="bottom" class="search"><a onclick="javaScript:doChange('6')" onmousemove="doChange('6')" class="font_rw1">沙龙</a><a class="font_rw2"> |</a></td>
+                              <td width="45" align="right" valign="bottom" class="search"><a onclick="javaScript:doChange('7')" onmousemove="doChange('7')" class="font_rw1">情报</a><a class="font_rw2"> |</a></td>
+                              <td>&nbsp;</td>
+                            </tr>
+                        </table></td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top"><form name="googlesearchform" id="googlesearchform" style="margin:0;padding:0">
+                            <input type="hidden" name="searchwordtemp" value="1" />
+                            <input name="searchword" id="topQuery2" size="68" maxlength="150" onblur="chkinp(this)" type="text" />
+                            <input accesskey="S" name="do" value="Search" onclick="doGoogleSearch()" type="button" style="background-color:#FF7501;border-style: inherit; outline-color:#FFFFFF;color:#FFFFFF;font-weight:bold" />
+                        </form></td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top"><table style="margin-top:5px;" width="95%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <td ><span class="STYLE1">HOT SEARCHES:</span></td>
+                              <td align="center"><a href="http://blog.icxo.com/zhuant/cyb.htm" target="_blank" class="font_rw2">创业板 |</a></td>
+                              <td align="center"><a  href="http://ceo.icxo.com/subject/woman/" target="_blank" class="font_rw2">富豪背后的女人 |</a></td>
+							    <td ><a  href="http://bbs.icxo.com/zhuanti/msgl.htm" target="_blank" class="font_rw2">面试技巧 |</a></td>
+                              <td ><a href="http://lady.icxo.com/sp/woju/" target="_blank" class="font_rw2">女人蜗居诱惑 |</a></td>                      
+                            
+                              <td ><a href="http://bbs.icxo.com/zhuanti/09pdwl.htm" target="_blank" class="font_rw2">炒作事件盘点 |</a></td>
+							   <td ><a href="http://bbs.icxo.com/zhuanti/md.html" target="_blank" class="font_rw2">麦兜族 |</a></td>
+							  <td ><a href="http://ent.icxo.com/sp/lixiang.htm" target="_blank" class="font_rw2">话题女主播李湘</a></td>
+							   
+							  
+                            </tr>
+                        </table></td>
+                      </tr>
+                  </table></td>
+                  <td width="40">&nbsp;</td>
+                </tr>
+            </table></td>
+          </tr>
+      </table></td>
+    </tr>
+  </table>
+<!-- SiteSearch Google -->
+<form method="get" action="http://www.google.cn/custom" target="google_window">
+<table border="0" bgcolor="#ffffff" style="width:950px; border:1px #ccc solid;">
+<tr><td nowrap="nowrap" valign="top" align="left" height="32">
+<a href="http://www.google.com/">
+<img src="http://www.google.com/logos/Logo_25wht.gif" border="0" alt="Google" align="middle"></img></a>
+</td>
+<td nowrap="nowrap">
+<input type="hidden" name="domains" value="icxo.com"></input>
+<label for="sbi" style="display: none">输入您的搜索字词</label>
+<input type="text" name="q" size="31" maxlength="255" value="" id="sbi"></input>
+<label for="sbb" style="display: none">提交搜索表单</label>
+<input type="submit" name="sa" value="搜索" id="sbb"></input>
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td nowrap="nowrap">
+<table>
+<tr>
+<td style='white-space: nowrap;'>
+<input type="radio" name="sitesearch" value="" id="ss0"></input>
+<label for="ss0" title="搜索网络"><font size="-1" color="#000000">Web</font></label></td>
+<td style='white-space: nowrap;'>
+<input type="radio" name="sitesearch" value="icxo.com" checked id="ss1"></input>
+<label for="ss1" title="搜索 icxo.com"><font size="-1" color="#000000">icxo.com</font></label></td>
+</tr>
+</table>
+<input type="hidden" name="client" value="pub-4782891006573276"></input>
+<input type="hidden" name="forid" value="1"></input>
+<input type="hidden" name="ie" value="GB2312"></input>
+<input type="hidden" name="oe" value="GB2312"></input>
+<input type="hidden" name="safe" value="active"></input>
+<input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#C3D9FF;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;FORID:1"></input>
+<input type="hidden" name="hl" value="zh-CN"></input>
+</td></tr></table>
+</form>
+<!-- SiteSearch Google -->

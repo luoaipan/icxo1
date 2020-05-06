@@ -1,0 +1,1729 @@
+
+@media Screen    
+{
+DIV.hsbcBannerImg {
+	FLOAT: left; POSITION: relative
+}
+DIV.hsbcBannerImg .hsbcBannerTxt {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; Z-INDEX: 2; LEFT: 12px; PADDING-BOTTOM: 0px; OVERFLOW: hidden; WIDTH: 266px; CURSOR: pointer; LINE-HEIGHT: 110%; PADDING-TOP: 0px; POSITION: absolute; TOP: 12px; HEIGHT: 20px
+}
+DIV.extSmallBanner .hsbcBannerTxt {
+	FONT-WEIGHT: bold; WIDTH: 195px; TOP: 8px; HEIGHT: 18px
+}
+DIV.hsbcBannerImg A {
+	COLOR: #0067da; TEXT-DECORATION: none! important
+}
+HTML BODY {
+	FONT-SIZE: 9pt; MARGIN: 0px; COLOR: #000; FONT-FAMILY: SimSun, Helvetica, sans-serif
+}
+BODY {
+	FONT-SIZE: 9pt; MARGIN: 0px; COLOR: #000; FONT-FAMILY: SimSun, Helvetica, sans-serif
+}
+.wpsPortletBody {
+	FONT-SIZE: 9pt; MARGIN: 0px; COLOR: #000; FONT-FAMILY: SimSun, Helvetica, sans-serif
+}
+.wpsPortletText {
+	FONT-SIZE: 9pt; MARGIN: 0px; COLOR: #000; FONT-FAMILY: SimSun, Helvetica, sans-serif
+}
+.wpsEditText {
+	FONT-SIZE: 9pt; MARGIN: 0px; COLOR: #000; FONT-FAMILY: SimSun, Helvetica, sans-serif
+}
+.wpsPortletSmText {
+	FONT-SIZE: 9pt; MARGIN: 0px; COLOR: #000; FONT-FAMILY: SimSun, Helvetica, sans-serif
+}
+.wpsEditSmText {
+	FONT-SIZE: 9pt; MARGIN: 0px; COLOR: #000; FONT-FAMILY: SimSun, Helvetica, sans-serif
+}
+.wpsPortletTinyText {
+	FONT-SIZE: 9pt; MARGIN: 0px; COLOR: #000; FONT-FAMILY: SimSun, Helvetica, sans-serif
+}
+.portlet-font {
+	FONT-SIZE: 9pt; MARGIN: 0px; COLOR: #000; FONT-FAMILY: SimSun, Helvetica, sans-serif
+}
+FORM {
+	DISPLAY: inline
+}
+INPUT {
+	VERTICAL-ALIGN: middle! important
+}
+SELECT {
+	VERTICAL-ALIGN: middle! important
+}
+LABEL {
+	VERTICAL-ALIGN: middle! important
+}
+.portlet-form-input-field {
+	VERTICAL-ALIGN: middle! important
+}
+.wpsLabelText {
+	VERTICAL-ALIGN: middle! important
+}
+.portlet-form-field {
+	VERTICAL-ALIGN: middle! important
+}
+.portlet-form-field-label {
+	VERTICAL-ALIGN: middle! important
+}
+.wpsRequiredLabelText {
+	VERTICAL-ALIGN: middle! important
+}
+.portlet-form-label {
+	VERTICAL-ALIGN: middle! important
+}
+A IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+A {
+	COLOR: #f00; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+H1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 165%; PADDING-BOTTOM: 10px; MARGIN: 0px 14px 0px 0px; COLOR: #333; PADDING-TOP: 5px
+}
+.containerHomePageOuterContent H1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(images/dotRepeater.gif) repeat-x left bottom; PADDING-BOTTOM: 12px; MARGIN: 0px 14px 5px 0px; PADDING-TOP: 0px
+}
+H2 {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 100%; BACKGROUND: url(images/right-tool-title-bg.gif) #e4ddc0 repeat-x left top; PADDING-BOTTOM: 5px; MARGIN: 0px; COLOR: #333; PADDING-TOP: 5px
+}
+.hsbcBgStyleContent02 H2 {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 8px; BORDER-TOP: #ccc 1px solid; MARGIN-TOP: 10px; PADDING-LEFT: 8px; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 8px; BORDER-LEFT: #ccc 1px solid; PADDING-TOP: 12px; BORDER-BOTTOM: #f00 1px solid
+}
+H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 100%; PADDING-BOTTOM: 5px; MARGIN: 0px 0px 3px; COLOR: #333; PADDING-TOP: 5px
+}
+.hsbcSpacing01 {
+	MARGIN: 5px 0px 14px
+}
+.hsbcSpacing02 {
+	MARGIN-BOTTOM: 16px
+}
+DIV.hsbcContent A {
+	COLOR: #36c
+}
+DIV.hsbcContent P {
+	FONT-WEIGHT: normal; COLOR: #333; LINE-HEIGHT: 130%
+}
+DIV.hsbcStyleContent01 H3 {
+	COLOR: #f00! important
+}
+DIV.hsbcStyleContent02 {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 15px; PADDING-LEFT: 15px; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 25px; BORDER-LEFT: #ccc 1px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #ccc 1px solid
+}
+DIV.hsbcStyleContent02 P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 4px; COLOR: #333; PADDING-TOP: 0px
+}
+DIV.hsbcStyleContent02 UL {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 9px! important; PADDING-BOTTOM: 2px! important; PADDING-TOP: 2px! important
+}
+DIV.hsbcStyleContent02 UL LI {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 9px! important; BACKGROUND: url(images/icons/arrow.gif) no-repeat left top; PADDING-BOTTOM: 5px! important; MARGIN: 0px; COLOR: #333; LINE-HEIGHT: 100%! important; PADDING-TOP: 2px! important
+}
+DIV.hsbcStyleContent02 P.extHrType01 {
+	MARGIN-TOP: 10px; MARGIN-BOTTOM: 5px
+}
+DIV.hsbcStyleContent02 UL LI A {
+	COLOR: #f00; TEXT-DECORATION: none
+}
+DIV.hsbcBgStyleContent01 DIV.hsbcStyleContent02 {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 15px; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 15px; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 13px; BORDER-LEFT: #ccc 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM: #ccc 1px solid
+}
+DIV.hsbcBgStyleContent01 DIV.hsbcStyleContent02 H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #333; PADDING-TOP: 12px
+}
+DIV.hsbcBgStyleContent01 DIV.hsbcStyleContent02 P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #333; PADDING-TOP: 8px
+}
+DIV.hsbcBgStyleContent01 DIV.hsbcStyleContent02 UL LI {
+	COLOR: #333
+}
+DIV.hsbcBgStyleContent02 DIV.hsbcStyleContent02 {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 15px; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 13px; PADDING-TOP: 0px
+}
+DIV.hsbcStyleContent03 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 50%; PADDING-TOP: 0px
+}
+DIV.hsbcStyleContent04 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 50%; PADDING-TOP: 0px
+}
+DIV.hsbcStyleContent03 UL {
+	PADDING-RIGHT: 15px! important
+}
+DIV.hsbcStyleContent03 H3 {
+	PADDING-RIGHT: 15px! important
+}
+DIV.hsbcStyleContent04 UL {
+	PADDING-LEFT: 15px! important
+}
+DIV.hsbcStyleContent04 H3 {
+	PADDING-LEFT: 15px! important
+}
+DIV.hsbcStyleContent03 P {
+	BACKGROUND-REPEAT: no-repeat
+}
+DIV.hsbcStyleContent04 P {
+	BACKGROUND-REPEAT: no-repeat
+}
+DIV.hsbcStyleContent06 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+DIV.hsbcStyleContent07 {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 15px; BACKGROUND: #f7f4e8; PADDING-BOTTOM: 10px; PADDING-TOP: 15px
+}
+DIV.hsbcStyleContent07 P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; PADDING-BOTTOM: 10px; MARGIN: 0px; COLOR: #333; LINE-HEIGHT: 100%; PADDING-TOP: 10px
+}
+DIV.hsbcStyleContent07 P IMG {
+	MARGIN: -2px 0px 0px
+}
+DIV.hsbcStyleContent07 P.extHrType01 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 3px; PADDING-TOP: 0px
+}
+DIV.hsbcStyleContent08 {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 15px; PADDING-BOTTOM: 4px; PADDING-TOP: 0px
+}
+DIV.hsbcStyleContent08 P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 4px 0px 6px; PADDING-TOP: 0px
+}
+DIV.hsbcStyleContent08 P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 10px 0px; PADDING-TOP: 0px
+}
+DIV.hsbcStyleContent08 IMG {
+	MARGIN-LEFT: 5px
+}
+DIV.hsbcStyleContent09 {
+	PADDING-RIGHT: 9px! important; PADDING-LEFT: 9px! important; PADDING-BOTTOM: 0px! important; MARGIN: 0px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px! important; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+DIV.hsbcStyleContent09 P {
+	PADDING-RIGHT: 15px! important; PADDING-LEFT: 15px! important; FONT-WEIGHT: normal! important; PADDING-BOTTOM: 9px! important; MARGIN: 0px; COLOR: #333; PADDING-TOP: 0px! important
+}
+DIV.hsbcStyleContent09 P A {
+	FONT-WEIGHT: normal! important; COLOR: #f00; TEXT-DECORATION: none! important
+}
+DIV.hsbcStyleContent09 P A:hover {
+	TEXT-DECORATION: underline! important
+}
+DIV.hsbcStyleContent10 P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 2px 0px 9px; PADDING-TOP: 0px
+}
+DIV.hsbcStyleContent10 P BR {
+	LINE-HEIGHT: 69%
+}
+DIV.hsbcStyleContent10 P.extHrType01 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 15px 0px; PADDING-TOP: 0px
+}
+DIV.hsbcStyleContent11 {
+	FLOAT: left; MARGIN: 0px; WIDTH: 48%
+}
+DIV.hsbcStyleContent12 {
+	FLOAT: left; MARGIN: 0px; WIDTH: 48%
+}
+DIV.hsbcStyleContent11 P {
+	PADDING-RIGHT: 30px; BACKGROUND-POSITION: left top; BACKGROUND-REPEAT: no-repeat
+}
+DIV.hsbcStyleContent12 P {
+	BACKGROUND-POSITION: left top; MARGIN-LEFT: 20px; BACKGROUND-REPEAT: no-repeat
+}
+DIV.hsbcStyleContent13 {
+	PADDING-BOTTOM: 5px; PADDING-TOP: 9px
+}
+DIV.hsbcStyleContent13 P {
+	COLOR: #666
+}
+DIV.hsbcStyleContent13 P STRONG A {
+	FONT-WEIGHT: normal; COLOR: #f00
+}
+DIV.hsbcStyleContent13 A:hover {
+	TEXT-DECORATION: underline
+}
+DIV.hsbcStyleContent14 {
+	BACKGROUND: #f7f4e8
+}
+DIV.hsbcStyleContent14 P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 2px 0px 9px; PADDING-TOP: 0px
+}
+DIV.hsbcStyleContent14 P A {
+	COLOR: #333
+}
+DIV.hsbcStyleContent14 P A STRONG {
+	FONT-WEIGHT: normal; COLOR: #f00
+}
+DIV.hsbcStyleContent14 P.extHrType01 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 15px 0px 5px; PADDING-TOP: 0px
+}
+DIV.hsbcStyleContent15 {
+	MARGIN-BOTTOM: 32px
+}
+DIV.hsbcStyleContent16 H2 {
+	BORDER-BOTTOM: #ccc 1px solid; BACKGROUND-COLOR: #eee
+}
+DIV.hsbcStyleContent17 {
+	MARGIN-TOP: 0px! important; MARGIN-BOTTOM: 0px! important
+}
+DIV.hsbcStyleContent18 {
+	CLEAR: both; BORDER-RIGHT: #e4ddc0 1px solid; WIDTH: 639px; BORDER-BOTTOM: #e4ddc0 1px solid; HEIGHT: 28px
+}
+DIV.hsbcStyleContent18 DIV {
+	TEXT-ALIGN: center
+}
+DIV.hsbcStyleContent18 P {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; PADDING-BOTTOM: 7px! important; MARGIN: 0px; PADDING-TOP: 7px! important
+}
+DIV.hsbcStyleContent18 H2 A {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; FONT-WEIGHT: bold; PADDING-BOTTOM: 0px! important; COLOR: #f00; PADDING-TOP: 0px! important; TEXT-DECORATION: none
+}
+DIV.hsbcStyleContent18 A {
+	COLOR: #000; TEXT-DECORATION: underline
+}
+DIV.hsbcStyleContent18 H2 {
+	BORDER-TOP-WIDTH: 0px! important; PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; FONT-WEIGHT: bold! important; BORDER-LEFT-WIDTH: 0px! important; BACKGROUND: url(images/shopTabSelect.gif) no-repeat 50% top; BORDER-BOTTOM-WIDTH: 0px! important; PADDING-BOTTOM: 7px! important; MARGIN: 0px; PADDING-TOP: 7px! important; BORDER-RIGHT-WIDTH: 0px! important
+}
+DIV.hsbcStyleContent19 {
+	BACKGROUND: url(images/tabbedoffers_2.gif) #f0ebdb repeat-x left top; FLOAT: left; WIDTH: 153px
+}
+DIV.hsbcStyleContent20 {
+	BACKGROUND: url(images/tabbedoffers_2.gif) #f0ebdb repeat-x left top; FLOAT: left; BORDER-LEFT: #ccc 1px solid; WIDTH: 161px
+}
+DIV.hsbcBgStyleContent01 DIV.hsbcStyleContent02 {
+	BACKGROUND-COLOR: #f7f4e8
+}
+DIV.hsbcBgStyleContent02 H2 {
+	BACKGROUND-COLOR: #f7f4e8
+}
+DIV.hsbcBgStyleContent02 DIV.hsbcStyleContent02 {
+	BACKGROUND-COLOR: #f7f4e8
+}
+DIV.hsbcContent UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 4px 0px 2px; PADDING-TOP: 0px
+}
+DIV.hsbcContent UL LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 11px; FONT-WEIGHT: normal; BACKGROUND: url(images/bgDefaultListPoint.gif) no-repeat left top; PADDING-BOTTOM: 2px; MARGIN: 0px 0px 7px; COLOR: #333; LINE-HEIGHT: 130%; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+P.extHrType01 {
+	CLEAR: both; PADDING-RIGHT: 0px! important; DISPLAY: block; PADDING-LEFT: 0px! important; FONT-SIZE: 5%! important; BACKGROUND: url(images/dotRepeater.gif) repeat-x; PADDING-BOTTOM: 0px! important; MARGIN: 0px; LINE-HEIGHT: 1px; PADDING-TOP: 0px! important
+}
+P.hsbcLinkStyle01 A {
+	DISPLAY: block; PADDING-LEFT: 25px; BACKGROUND: url(images/icons/iconSpanner.gif) no-repeat left top; LINE-HEIGHT: 140%
+}
+A.hsbcLinkStyle01 {
+	DISPLAY: block; PADDING-LEFT: 25px; BACKGROUND: url(images/icons/iconSpanner.gif) no-repeat left top; LINE-HEIGHT: 140%
+}
+P.hsbcLinkStyle02 A {
+	DISPLAY: block; PADDING-LEFT: 25px; BACKGROUND: url(images/icons/iconQuestionMark.gif) no-repeat left top; LINE-HEIGHT: 140%
+}
+A.hsbcLinkStyle02 {
+	DISPLAY: block; PADDING-LEFT: 25px; BACKGROUND: url(images/icons/iconQuestionMark.gif) no-repeat left top; LINE-HEIGHT: 140%
+}
+P.hsbcLinkStyle03 A {
+	DISPLAY: block; PADDING-LEFT: 25px; BACKGROUND: url(images/icons/iconInfo.gif) no-repeat left top; LINE-HEIGHT: 140%
+}
+A.hsbcLinkStyle03 {
+	DISPLAY: block; PADDING-LEFT: 25px; BACKGROUND: url(images/icons/iconInfo.gif) no-repeat left top; LINE-HEIGHT: 140%
+}
+DIV.hsbcToolBox {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; MARGIN: 0px 0px 13px; PADDING-TOP: 0px; BORDER-BOTTOM: #ccc 1px solid; BACKGROUND-COLOR: #f7f4e8
+}
+DIV.hsbcToolBox P {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: left top; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 10px; COLOR: #333; PADDING-TOP: 0px; BACKGROUND-REPEAT: no-repeat
+}
+DIV.hsbcToolBox P.extHrType01 {
+	MARGIN: 0px 0px 4px
+}
+DIV.hsbcToolBox UL {
+	MARGIN: 0px 10px 5px
+}
+DIV.hsbcToolBox UL LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #666; PADDING-TOP: 0px
+}
+DIV.hsbcToolBox A IMG {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 0px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+DIV.hsbcToolBox P A IMG {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 0px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+DIV.hsbcToolBox P A {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; COLOR: #333; PADDING-TOP: 0px; TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: #f00! important; TEXT-DECORATION: none
+}
+DIV.hsbcTitleToolBox {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(images/bgToolBoxHeader.gif) no-repeat left top; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 7px; PADDING-TOP: 0px
+}
+DIV.hsbcTitleToolBox H2 {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: url(images/right-tool-title-bg.gif) #e4ddc0 repeat-x left top; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; BORDER-BOTTOM-STYLE: none
+}
+DIV.hsbcTitleToolBox P {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 16px! important; PADDING-BOTTOM: 5px! important; MARGIN: 0px; COLOR: #333; PADDING-TOP: 6px! important
+}
+DIV.hsbcStyleToolBox01 {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px! important; MARGIN: 0px; BORDER-TOP-STYLE: none! important; PADDING-TOP: 0px! important; BORDER-RIGHT-STYLE: none! important; BORDER-LEFT-STYLE: none! important; BORDER-BOTTOM-STYLE: none! important
+}
+DIV.hsbcStyleToolBox01 DIV.hsbcTitleToolBox {
+	MARGIN: 0px
+}
+TABLE.hsbcTableStyle01 {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; BORDER-COLLAPSE: collapse
+}
+TABLE.hsbcTableStyle01 TR TH {
+	VERTICAL-ALIGN: top
+}
+TABLE.hsbcTableStyle01 TR TD {
+	VERTICAL-ALIGN: top
+}
+TABLE.hsbcTableStyle01 TR TH {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 5px; FONT-WEIGHT: bold! important; BACKGROUND: #fbfbfb; PADDING-BOTTOM: 8px; BORDER-LEFT: #ccc 1px solid; COLOR: #333; BORDER-TOP-STYLE: none; PADDING-TOP: 10px; BORDER-BOTTOM: #ccc 1px solid; TEXT-ALIGN: left
+}
+TABLE.hsbcTableStyle01 TR TH A {
+	COLOR: #333; TEXT-DECORATION: none
+}
+TABLE.hsbcTableStyle01 TR TH A:hover {
+	TEXT-DECORATION: none
+}
+TABLE.hsbcTableStyle01 TR TD {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: normal; BACKGROUND: #f7f4e8; PADDING-BOTTOM: 10px; BORDER-LEFT: #ccc 1px solid; COLOR: #333; PADDING-TOP: 10px; BORDER-BOTTOM: #ccc 1px solid; TEXT-ALIGN: left
+}
+TABLE.hsbcTableStyle01 TR.extTableRow01 TD {
+	BACKGROUND: #f7f4e8
+}
+TABLE.hsbcTableStyle01 TR TD.extTableColumn01 {
+	FONT-WEIGHT: bold! important; BACKGROUND: #fbfbfb; COLOR: #333; TEXT-ALIGN: left
+}
+TABLE.hsbcTableStyle02 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 422px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-BOTTOM: #f00 1px solid; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-COLLAPSE: collapse
+}
+TABLE.hsbcTableStyle02 TR TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 2px; PADDING-BOTTOM: 0px; WIDTH: 25%; PADDING-TOP: 0px
+}
+TABLE.hsbcTableStyle02 TR TD.extleftTab {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+TABLE.hsbcTableStyle02 TR TD SPAN.ContentHeaderTabSelected {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; BACKGROUND: url(images/bgContentHeaderSliderRight.gif) no-repeat right top; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #f00; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+TABLE.hsbcTableStyle02 TR TD H2 {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; BACKGROUND: url(images/bgContentHeaderSliderLeft.gif) no-repeat left top; PADDING-BOTTOM: 6px; MARGIN: 0px; PADDING-TOP: 7px; TEXT-ALIGN: center; BORDER-BOTTOM-STYLE: none
+}
+TABLE.hsbcTableStyle02 TR TD P {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; BACKGROUND: url(images/bgContentHeaderSliderRightWhite.gif) no-repeat right top; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+TABLE.hsbcTableStyle02 TR TD A {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; BACKGROUND: url(images/bgContentHeaderSliderLeftWhite.gif) no-repeat left top; PADDING-BOTTOM: 6px; MARGIN: 0px; PADDING-TOP: 7px; TEXT-ALIGN: center; BORDER-BOTTOM-STYLE: none
+}
+TABLE.hsbcTableStyle03 {
+	MARGIN-LEFT: 10px
+}
+TD.extTableColumn01 {
+	PADDING-RIGHT: 15px! important; PADDING-LEFT: 15px! important; FONT-WEIGHT: normal! important; PADDING-BOTTOM: 10px! important; BORDER-LEFT: #ccc 1px solid; PADDING-TOP: 10px! important; BORDER-BOTTOM: #ccc 1px solid; BACKGROUND-COLOR: #fff! important
+}
+TR.extTableRow01 TD.extTableColumn01 {
+	PADDING-RIGHT: 15px! important; PADDING-LEFT: 15px! important; FONT-WEIGHT: normal! important; PADDING-BOTTOM: 10px! important; BORDER-LEFT: #ccc 1px solid; PADDING-TOP: 10px! important; BORDER-BOTTOM: #ccc 1px solid; BACKGROUND-COLOR: #fff! important
+}
+TR.extTableRow01 TD.extTableColumn01 {
+	FONT-WEIGHT: bold! important
+}
+TR.extTableRow01 TD {
+	PADDING-RIGHT: 5px! important; PADDING-LEFT: 5px! important; PADDING-BOTTOM: 0px! important; BORDER-LEFT: #ccc 1px solid; PADDING-TOP: 8px! important; BORDER-BOTTOM: #ccc 1px solid; BACKGROUND-COLOR: #fff! important
+}
+TR.extTableRow01 TD IMG {
+	MARGIN-BOTTOM: 8px! important
+}
+.hsbcHideBlock {
+	DISPLAY: none
+}
+.hsbcAlignType01 {
+	FLOAT: right
+}
+.hsbcAlignType02 {
+	WHITE-SPACE: nowrap; TEXT-ALIGN: right
+}
+.hsbcAlignType03 {
+	FLOAT: left
+}
+.hsbcAlignType04 IMG {
+	FLOAT: right
+}
+.hsbcAlignType05 {
+	FLOAT: right; VERTICAL-ALIGN: top; TEXT-ALIGN: right
+}
+.hsbcAlignType06 {
+	CLEAR: both; FLOAT: right
+}
+.hsbcTextStyle01 {
+	COLOR: #36c! important
+}
+.hsbcTextStyle02 {
+	COLOR: #333! important
+}
+.hsbcTextStyle02 IMG {
+	VERTICAL-ALIGN: middle
+}
+.hsbcTextStyle03 {
+	COLOR: #333! important
+}
+.hsbcTextStyle04 {
+	COLOR: #000! important
+}
+.hsbcTextStyle05 {
+	FONT-WEIGHT: normal! important
+}
+SPAN.hsbcTextStyle05 {
+	PADDING-TOP: 10px
+}
+.hsbcTextStyle05 A {
+	COLOR: #f00! important; TEXT-DECORATION: none! important
+}
+.hsbcTextStyle05 A:hover {
+	TEXT-DECORATION: underline! important
+}
+.hsbcTextStyle06 {
+	FONT-WEIGHT: bold! important; TEXT-DECORATION: underline! important
+}
+.hsbcTextStyle07 {
+	COLOR: #f00! important
+}
+.hsbcTextStyle08 {
+	COLOR: #36c! important; TEXT-DECORATION: underline! important
+}
+.hsbcTextStyle09 {
+	FONT-WEIGHT: bold! important; COLOR: #f00! important
+}
+.hsbcTextStyle10 {
+	COLOR: #333! important; TEXT-DECORATION: underline! important
+}
+.hsbcTextStyle11 {
+	FONT-WEIGHT: normal
+}
+.hsbcTextStyle12 {
+	PADDING-RIGHT: 15px! important; PADDING-LEFT: 15px! important; BACKGROUND: #f7f4e8; PADDING-BOTTOM: 15px! important; COLOR: #333! important; PADDING-TOP: 15px! important
+}
+.hsbcTextStyle12 BR {
+	LINE-HEIGHT: 75%
+}
+.hsbcTextStyle13 {
+	COLOR: #666! important
+}
+.hsbcTextStyle14 {
+	FONT-WEIGHT: bold! important; COLOR: #f00! important; TEXT-DECORATION: none! important
+}
+.hsbcTextStyle16 {
+	FONT-WEIGHT: bold! important; COLOR: #36c! important
+}
+.hsbcTextStyle17 A {
+	FONT-WEIGHT: bold! important; TEXT-DECORATION: none
+}
+.hsbcTextStyleError {
+	FONT-WEIGHT: bold; COLOR: #f00
+}
+IMG.hsbcImageStyle01 {
+	MARGIN-TOP: 2px; MARGIN-BOTTOM: 7px; MARGIN-RIGHT: 12px
+}
+IMG.hsbcImageStyle03 {
+	MARGIN-TOP: 3px; MARGIN-BOTTOM: 7px; MARGIN-LEFT: 12px
+}
+IMG.hsbcImageStyle04 {
+	BORDER-TOP: #ccc 1px solid; MARGIN: 4px 0px; BORDER-LEFT: #ccc 1px solid
+}
+IMG.hsbcImageStyle05 {
+	MARGIN: 10px 9px 0px 0px
+}
+IMG.hsbcImageStyle06 {
+	MARGIN: 0px
+}
+IMG.hsbcImageStyle07 {
+	MARGIN: 6px 15px 7px 0px
+}
+IMG.hsbcImageStyle08 {
+	MARGIN: 0px 7px 0px 0px; VERTICAL-ALIGN: text-top
+}
+IMG.hsbcImageStyle09 {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; MARGIN-LEFT: 12px
+}
+IMG.hsbcImageStyle10 {
+	MARGIN: 0px 0px 0px 7px; VERTICAL-ALIGN: text-top
+}
+.hsbcInputStyle01 {
+	MARGIN: 2px 0px
+}
+.hsbcInputStyle02 {
+	DISPLAY: block! important; MARGIN: 3px 0px 8px
+}
+.extFloatBugFix {
+	CLEAR: both
+}
+DIV.extBlockStyle01 {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: left top; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: #f00 1px solid; BACKGROUND-REPEAT: no-repeat
+}
+DIV.containerControlNoLeftRight DIV.extBlockStyle01 {
+	BACKGROUND-IMAGE: url(images/bgOneColumnH2FullWidthTop.gif); WIDTH: 742px
+}
+DIV.containerControlRight DIV.extBlockStyle01 {
+	BACKGROUND-IMAGE: url(images/bgOneColumnH2FullWidthTop.gif); WIDTH: 742px
+}
+DIV.containerControlLeftRight DIV.extBlockStyle01 {
+	BACKGROUND-IMAGE: url(images/bgOneColumnH2HalfWidthTop.gif); WIDTH: 588px
+}
+DIV.extBlockStyle01 P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 17px; PADDING-BOTTOM: 6px; MARGIN: 0px; PADDING-TOP: 7px
+}
+DIV.extBlockStyle02 {
+	BORDER-RIGHT: #eee 1px solid; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-LEFT: #eee 1px solid; PADDING-TOP: 0px
+}
+DIV.containerControlNoLeftRight DIV.extBlockStyle02 {
+	WIDTH: 740px
+}
+DIV.containerControlRight DIV.extBlockStyle02 {
+	WIDTH: 740px
+}
+DIV.containerControlLeftRight DIV.extBlockStyle02 {
+	WIDTH: 586px
+}
+DIV.extBlockStyle02 DIV.hsbcDivletPageList {
+	BORDER-TOP: #fff 1px solid; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 0px; LINE-HEIGHT: 170%! important; BORDER-BOTTOM: #fff 1px solid
+}
+DIV.extBlockStyle03 {
+	BORDER-RIGHT: #eee 1px solid; PADDING-RIGHT: 10px; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; BORDER-LEFT: #eee 1px solid; PADDING-TOP: 7px
+}
+DIV.containerControlNoLeftRight DIV.extBlockStyle03 {
+	WIDTH: 730px
+}
+DIV.containerControlRight DIV.extBlockStyle03 {
+	WIDTH: 730px
+}
+DIV.containerControlLeftRight DIV.extBlockStyle03 {
+	WIDTH: 576px
+}
+DIV.extBlockStyle03 P {
+	MARGIN: 4px 0px 12px 14px
+}
+DIV.extBlockStyle03 H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px; MARGIN: 13px 0px 4px 14px; BORDER-TOP-STYLE: none! important; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none! important; BORDER-LEFT-STYLE: none! important; BORDER-BOTTOM-STYLE: none! important
+}
+DIV.extBlockStyle04 {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: left bottom; BORDER-TOP: #f00 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; BACKGROUND-REPEAT: no-repeat
+}
+DIV.containerControlNoLeftRight DIV.extBlockStyle04 {
+	BACKGROUND-IMAGE: url(images/bgOneColumnH2FullWidthBot.gif); WIDTH: 742px
+}
+DIV.containerControlRight DIV.extBlockStyle04 {
+	BACKGROUND-IMAGE: url(images/bgOneColumnH2FullWidthBot.gif); WIDTH: 742px
+}
+DIV.containerControlLeftRight DIV.extBlockStyle04 {
+	BACKGROUND-IMAGE: url(images/bgOneColumnH2HalfWidthBot.gif); WIDTH: 588px
+}
+DIV.extBlockStyle04 P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 17px; PADDING-BOTTOM: 6px; MARGIN: 0px; PADDING-TOP: 7px
+}
+DIV.extBlockStyle05 {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 0px; PADDING-BOTTOM: 25px; PADDING-TOP: 7px
+}
+DIV.extBlockStyle06 {
+	
+}
+DIV.extBlockStyle06 UL {
+	CLEAR: none; PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; FLOAT: right! important; PADDING-BOTTOM: 0px! important; MARGIN: 0px; PADDING-TOP: 0px! important
+}
+DIV.extBlockStyle06 LI {
+	PADDING-RIGHT: 4px! important; PADDING-LEFT: 4px! important; FONT-WEIGHT: normal! important; PADDING-BOTTOM: 0px! important; PADDING-TOP: 0px! important; BORDER-RIGHT-STYLE: none! important
+}
+DIV.extBlockStyle06 LI A {
+	TEXT-DECORATION: underline
+}
+DIV.containerGlobal {
+	WIDTH: 988px
+}
+DIV.containerPopupGlobal {
+	WIDTH: 98%
+}
+DIV.containerLogoArea {
+	CLEAR: left; FLOAT: left; WIDTH: 350px
+}
+DIV.containerTabMenu {
+	FLOAT: left; WIDTH: 100%
+}
+DIV.containerBreadCrumb {
+	FLOAT: left; WIDTH: 100%
+}
+DIV.containerFooter {
+	FLOAT: left; WIDTH: 100%
+}
+DIV.containerEntity {
+	WIDTH: 100%
+}
+DIV.containerMain {
+	PADDING-LEFT: 10px; FLOAT: left; WIDTH: 100%
+}
+DIV.hsbcStyleContent80 {
+	MARGIN: 31px 15px 16px 0px; PADDING-TOP: 1px
+}
+DIV.hsbcDecStyle02 {
+	CLEAR: left; MARGIN-BOTTOM: 16px; WIDTH: 100%
+}
+DIV.hsbcDecStyle01 {
+	CLEAR: left; MARGIN-BOTTOM: 16px; WIDTH: 100%
+}
+DIV.hsbcDecStyle02 H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; BACKGROUND: url(../images/dotted-black.gif) repeat-x left bottom; PADDING-BOTTOM: 10px; MARGIN: 0px; COLOR: #666; PADDING-TOP: 0px
+}
+DIV.hsbcDecStyle02 P {
+	MARGIN: 13px 0px 0px; COLOR: #666; LINE-HEIGHT: 1.5em
+}
+DIV.hsbcDecStyle09 {
+	CLEAR: left; WIDTH: 100%; BORDER-BOTTOM: #ccc 1px solid; HEIGHT: 25px
+}
+DIV.hsbcDecStyle09 UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; TEXT-TRANSFORM: uppercase; PADDING-TOP: 0px
+}
+DIV.hsbcDecStyle09 UL LI {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 5px! important; BACKGROUND: url(images/tab_pink_left.gif) no-repeat left top; FLOAT: left; PADDING-BOTTOM: 0px! important; MARGIN: 0px 4px 0px 0px; PADDING-TOP: 0px! important; LIST-STYLE-TYPE: none; HEIGHT: 25px; TEXT-ALIGN: center
+}
+DIV.hsbcDecStyle09 UL LI A {
+	PADDING-RIGHT: 17px; DISPLAY: block; PADDING-LEFT: 17px; FONT-WEIGHT: bold; BACKGROUND: url(images/tab_pink_right.gif) no-repeat right top; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: 50%; TEXT-TRANSFORM: uppercase; COLOR: #b188b1; LINE-HEIGHT: 25px; PADDING-TOP: 0px; HEIGHT: 25px; TEXT-DECORATION: none
+}
+UNKNOWN {
+	LINE-HEIGHT: 28px
+}
+DIV.hsbcDecStyle09 UL LI A.extSelected {
+	COLOR: #844884
+}
+DIV.hsbcDecStyle12 {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 18px; BORDER-TOP: #ccc 0px solid; PADDING-LEFT: 18px; PADDING-BOTTOM: 13px; BORDER-LEFT: #ccc 1px solid; PADDING-TOP: 13px; BORDER-BOTTOM: #ccc 1px solid
+}
+DIV.hsbcDecStyle10 {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 18px; BORDER-TOP: #ccc 0px solid; PADDING-LEFT: 18px; PADDING-BOTTOM: 13px; BORDER-LEFT: #ccc 1px solid; PADDING-TOP: 13px; BORDER-BOTTOM: #ccc 1px solid
+}
+DIV.hsbcDecStyle10 H2 {
+	MARGIN: 0px
+}
+DIV.hsbcDecStyle10 P {
+	MARGIN: 0px
+}
+DIV.hsbcDecStyle10 H2 {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #969
+}
+DIV.hsbcDecStyle10 H2 SPAN {
+	COLOR: #666
+}
+DIV.hsbcDecStyle10 H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV.hsbcDecStyle10 A {
+	TEXT-DECORATION: underline
+}
+.hsbcSpacing05 {
+	MARGIN-BOTTOM: 8px! important
+}
+DIV.containerControlOne {
+	FLOAT: left
+}
+DIV.containerControlTwo {
+	FLOAT: left
+}
+DIV.containerControlThree {
+	FLOAT: left
+}
+DIV.containerControlFour {
+	FLOAT: left
+}
+DIV.containerContent {
+	FLOAT: left
+}
+DIV.containerOuterContent {
+	FLOAT: left
+}
+DIV.containerControlLeftRight DIV.containerContent {
+	WIDTH: 654px
+}
+DIV.containerControlLeftRight DIV.containerControlOne DIV.hsbcColumn {
+	WIDTH: 644px
+}
+DIV.containerControlLeftRight DIV.containerControlTwo DIV.hsbcColumn {
+	PADDING-RIGHT: 10px; WIDTH: 317px
+}
+DIV.containerControlLeftRight DIV.containerControlThree DIV.hsbcColumn {
+	PADDING-RIGHT: 10px; WIDTH: 208px
+}
+DIV.containerControlLeftRight DIV.containerControlThree DIV.hsbcColumnDouble {
+	PADDING-RIGHT: 10px; WIDTH: 426px! important
+}
+DIV.containerControlLeftRight DIV.containerOuterContent {
+	WIDTH: 832px
+}
+DIV.containerControlRight DIV.containerLeftNav {
+	DISPLAY: none
+}
+DIV.containerControlRight DIV.containerContent {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 9px; FLOAT: left; WIDTH: 796px
+}
+DIV.containerControlRight DIV.containerControlOne DIV.hsbcColumn {
+	WIDTH: 786px
+}
+DIV.containerControlRight DIV.containerControlOne DIV.hsbcColumn .hsbcContent {
+	MARGIN: 0px
+}
+DIV.containerControlRight DIV.containerControlTwo DIV.hsbcColumn {
+	PADDING-RIGHT: 10px; WIDTH: 388px
+}
+DIV.containerControlRight DIV.containerControlThree DIV.hsbcColumn {
+	PADDING-RIGHT: 10px; WIDTH: 255px
+}
+DIV.containerControlRight DIV.containerControlThree DIV.hsbcColumnDouble {
+	PADDING-RIGHT: 10px; WIDTH: 520px! important
+}
+DIV.containerControlRight DIV.containerControlFour DIV.hsbcColumn {
+	PADDING-RIGHT: 10px; WIDTH: 188px
+}
+DIV.containerControlRight DIV.containerControlFour DIV.hsbcColumnDouble {
+	PADDING-RIGHT: 10px; WIDTH: 388px! important
+}
+DIV.containerControlRight DIV.containerOuterContent {
+	PADDING-LEFT: 0px; WIDTH: 970px! important
+}
+DIV.containerControlLeft DIV.containerLeftNav {
+	MARGIN-RIGHT: 0px! important
+}
+DIV.containerControlLeft DIV.hsbcContent {
+	MARGIN-LEFT: 16px; MARGIN-RIGHT: 0px! important
+}
+DIV.containerControlLeft DIV.containerRightTools {
+	DISPLAY: none
+}
+DIV.containerControlLeft DIV.containerContent {
+	FLOAT: left; WIDTH: 620px
+}
+DIV.containerControlLeft DIV.containerControlOne DIV.hsbcColumn {
+	WIDTH: 620px
+}
+DIV.containerControlLeft DIV.containerControlTwo DIV.hsbcColumn {
+	WIDTH: 310px
+}
+DIV.containerControlLeft DIV.containerControlFour DIV.hsbcColumn {
+	WIDTH: 155px
+}
+DIV.containerControlLeft DIV.containerControlFour DIV.hsbcColumnDouble {
+	WIDTH: 310px
+}
+DIV.containerControlLeft DIV.containerControlFour DIV.hsbcTripleColumn {
+	WIDTH: 465px
+}
+DIV.containerControlPopup DIV.containerLeftNav {
+	DISPLAY: none
+}
+DIV.containerControlPopup DIV.hsbcContent {
+	MARGIN-LEFT: 16px; MARGIN-RIGHT: 0px! important
+}
+DIV.containerControlPopup DIV.containerRightTools {
+	DISPLAY: none
+}
+DIV.containerControlPopup DIV.containerContent {
+	FLOAT: left; WIDTH: auto
+}
+DIV.containerControlPopup DIV.containerControlOne DIV.hsbcColumn {
+	PADDING-RIGHT: 10px; MARGIN-LEFT: 16px; WIDTH: auto
+}
+DIV.containerControlNoLeftRight DIV.hsbcContent {
+	MARGIN-LEFT: 16px; MARGIN-RIGHT: 0px! important
+}
+DIV.containerControlNoLeftRight DIV.containerContent {
+	FLOAT: left; WIDTH: auto
+}
+DIV.containerControlNoLeftRight DIV.containerControlOne DIV.hsbcColumn {
+	PADDING-RIGHT: 10px; WIDTH: auto
+}
+DIV.hsbcColumn {
+	FLOAT: left; PADDING-BOTTOM: 10px
+}
+DIV.hsbcColumnDouble {
+	FLOAT: left; PADDING-BOTTOM: 10px
+}
+DIV.hsbcContent {
+	FLOAT: none; WIDTH: auto
+}
+DIV.containerLeftNav {
+	MARGIN-TOP: 29px; FLOAT: left; WIDTH: 140px; MARGIN-RIGHT: 16px
+}
+DIV.containerRightTools {
+	MARGIN-TOP: 0px; FLOAT: left; WIDTH: 180px
+}
+DIV.containerMain {
+	PADDING-LEFT: 0px
+}
+DIV.containerHomePageOuterContent A {
+	TEXT-DECORATION: none
+}
+DIV.containerHomePageOuterContent {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 9px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 984px; PADDING-TOP: 0px
+}
+DIV.containerHomePageOuterContent DIV.containerContent {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 16px 0px 0px; WIDTH: 801px; PADDING-TOP: 0px
+}
+DIV.containerHomePageRightTools {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 178px; PADDING-TOP: 32px
+}
+DIV.containerControlRight DIV.containerControlThree DIV.hsbcColumn H2 {
+	
+}
+DIV.containerHomePageOuterContent DIV.containerControlOne DIV.hsbcColumn H2 {
+	WIDTH: 769px
+}
+DIV.containerHomePageOuterContent DIV.containerControlThree DIV.hsbcColumn {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 252px; PADDING-TOP: 0px
+}
+DIV.containerHomePageOuterContent DIV.containerControlOne DIV.hsbcColumn {
+	WIDTH: 800px
+}
+DIV.containerHomePageOuterContent DIV.containerControlOne DIV.hsbcColumn .hsbcStyleContent02 {
+	MARGIN-RIGHT: 11px
+}
+DIV.containerHomePageOuterContent DIV.hsbcContent {
+	MARGIN-RIGHT: 0px! important
+}
+DIV.containerHomePageOuterContent DIV.containerContent {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; PADDING-BOTTOM: 0px! important; MARGIN: 0px; PADDING-TOP: 0px! important
+}
+DIV.hsbcHomeLeftNav {
+	FLOAT: left; PADDING-BOTTOM: 2px; WIDTH: 100%; PADDING-TOP: 12px
+}
+DIV.hsbcHomeNavPartner {
+	FLOAT: left; WIDTH: 100%
+}
+DIV.hsbcHomeNavPartner IMG {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV.hsbcHomeNavigation H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; BACKGROUND: url(images/homepageimages/bgListTitleArrow.gif) no-repeat left top; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #f00; BORDER-TOP-STYLE: none; PADDING-TOP: 1px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+DIV.hsbcHomeNavigation P.hsbcHomeNavigationTitle {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; BACKGROUND: url(images/homepageimages/bgListTitleArrow.gif) no-repeat left top; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #f00; BORDER-TOP-STYLE: none; PADDING-TOP: 1px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+DIV.hsbcHomeNavigation H2 A {
+	COLOR: #f00
+}
+DIV.hsbcHomeNavigation P.hsbcHomeNavigationTitle A {
+	COLOR: #f00
+}
+DIV.hsbcHomeNavigation {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 388px; PADDING-TOP: 0px
+}
+DIV.hsbcHomeNavigation UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 4px 0px 0px; PADDING-TOP: 0px
+}
+DIV.hsbcHomeNavigation UL LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 11px; FONT-WEIGHT: normal; BACKGROUND: url(images/homepageimages/bgListItemArrow.gif) no-repeat left top; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 2px; COLOR: #f00; LINE-HEIGHT: 100%; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+DIV.hsbcHomeNavigation UL LI A {
+	COLOR: #f00
+}
+DIV.hsbcHomeNavigation P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 2px; MARGIN: 0px; COLOR: #333; PADDING-TOP: 6px
+}
+DIV.hsbcHomeNavigation UL LI.extHomeBoldLink {
+	FONT-WEIGHT: bold; MARGIN: 7px 0px 0px
+}
+DIV.hsbcToolBox P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; MARGIN: 0px 10px; PADDING-TOP: 0px
+}
+DIV.hsbcStyleToolBoxHomepage01 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+DIV.hsbcStyleToolBoxHomepage02 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+DIV.hsbcStyleToolBoxHomepage02 IMG {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 2px; MARGIN: 0px; PADDING-TOP: 5px
+}
+DIV.hsbcStyleToolBoxHomepage03 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 4px; MARGIN: 0px; PADDING-TOP: 4px
+}
+DIV.hsbcStyleToolBoxHomepage04 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; PADDING-TOP: 9px
+}
+DIV.hsbcStyleToolBoxHomepage04 P {
+	MARGIN: 0px 15px 5px; BACKGROUND-REPEAT: no-repeat
+}
+DIV.hsbcStyleToolBoxHomepage05 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV.hsbcStyleToolBoxHomepage05 DIV.hsbcTitleToolBox {
+	
+}
+DIV.hsbcStyleToolBoxHomepage05 DIV.hsbcTitleToolBox H2 {
+	BORDER-BOTTOM: #ccc 1px solid
+}
+DIV.hsbcStyleToolBoxHomepage06 {
+	MARGIN-TOP: 13px! important
+}
+DIV.hsbcStyleToolBoxHomepage06 P {
+	BACKGROUND-POSITION: left top; BACKGROUND-REPEAT: no-repeat
+}
+DIV.hsbcStyleToolBoxHomepage06 UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 15px 13px; PADDING-TOP: 0px
+}
+DIV.hsbcStyleToolBoxHomepage06 UL LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 11px; LINE-HEIGHT: 130%; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+DIV.hsbcStyleToolBoxHomepage07 {
+	PADDING-BOTTOM: 10px; TEXT-ALIGN: right
+}
+DIV.hsbcHomepageSpacing01 {
+	MARGIN: 0px 0px 16px
+}
+DIV.hsbcHomepageRibbon {
+	FONT-SIZE: 5%; BACKGROUND: url(images/homepageimages/bgRibbon.gif) no-repeat; FLOAT: left; WIDTH: 100%; HEIGHT: 10px
+}
+DIV.hsbcDivletLogo {
+	WIDTH: auto; HEIGHT: 48px
+}
+DIV.hsbcDivletLogo .hsbcDivletLogoImage {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 11px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 127px; PADDING-TOP: 14px
+}
+DIV.hsbcDivletLogo .hsbcDivletLogoTagLine {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 11px; FLOAT: left; PADDING-BOTTOM: 0px; FONT: bold 12px Arial, Helvetica, sans-serif; VERTICAL-ALIGN: middle; COLOR: #f00; PADDING-TOP: 17px
+}
+DIV.hsbcDivletSearch {
+	PADDING-RIGHT: 10px; MARGIN-TOP: 16px; FLOAT: right
+}
+DIV.hsbcDivletSearch LABEL {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 1px
+}
+INPUT.hsbcdivletSearchBox {
+	MARGIN-TOP: 1px; WIDTH: 109px
+}
+DIV.hsbcDivletTabMenu {
+	CLEAR: left; BACKGROUND: url(images/tab_bg.gif) repeat-x left bottom; WIDTH: 100%; HEIGHT: 44px
+}
+.wpsPortletTabSet {
+	CLEAR: left; BACKGROUND: url(images/tab_bg.gif) repeat-x left bottom; WIDTH: 100%; HEIGHT: 44px
+}
+DIV.hsbcDivletTabMenu UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV.hsbcDivletTabMenu UL LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 6px; BACKGROUND: url(images/tab_off_left.gif) no-repeat left top; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none; HEIGHT: 44px; TEXT-ALIGN: center
+}
+DIV.hsbcDivletTabMenu UL LI A {
+	PADDING-RIGHT: 9px; DISPLAY: block; PADDING-LEFT: 2px; FONT-WEIGHT: normal; BACKGROUND: url(images/tab_off_right.gif) no-repeat right top; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: 50%; COLOR: #000; LINE-HEIGHT: 36px; PADDING-TOP: 0px; HEIGHT: 44px; TEXT-DECORATION: none
+}
+.wpsPortletTabLink {
+	PADDING-RIGHT: 9px; DISPLAY: block; PADDING-LEFT: 2px; FONT-WEIGHT: normal; BACKGROUND: url(images/tab_off_right.gif) no-repeat right top; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: 50%; COLOR: #000; LINE-HEIGHT: 36px; PADDING-TOP: 0px; HEIGHT: 44px; TEXT-DECORATION: none
+}
+DIV.hsbcDivletTabMenu UL LI A:hover {
+	COLOR: #f00! important; TEXT-DECORATION: none
+}
+.wpsPortletTabLink:hover {
+	COLOR: #f00! important; TEXT-DECORATION: none
+}
+DIV.hsbcDivletTabMenu UL LI.hsbcDivletTabMenuSelected {
+	BACKGROUND: url(images/tab_on_left.gif) no-repeat left top
+}
+.wpsPortletSelectedTab {
+	BACKGROUND: url(images/tab_on_left.gif) no-repeat left top
+}
+DIV.hsbcDivletTabMenu UL LI.hsbcDivletTabMenuSelected A {
+	BACKGROUND: url(images/tab_on_right.gif) no-repeat right top
+}
+.wpsPortletSelectedTab A {
+	BACKGROUND: url(images/tab_on_right.gif) no-repeat right top
+}
+.wpsPortletSelectedTabLink {
+	BACKGROUND: url(images/tab_on_right.gif) no-repeat right top
+}
+DIV.hsbcDivletTabMenu UL LI.extFirstTab {
+	PADDING-LEFT: 15px; BACKGROUND: url(images/first_tab_off_left.gif) no-repeat left top
+}
+DIV.hsbcDivletTabMenu UL LI.extFirstTabSelected {
+	PADDING-LEFT: 15px; BACKGROUND: url(images/first_tab_on_left.gif) no-repeat left top
+}
+DIV.hsbcDivletTabMenu UL LI.extFirstTabSelected A {
+	BACKGROUND: url(images/tab_on_right.gif) no-repeat right top
+}
+DIV.hsbcDivletTabMenu UL LI.extSelectedTabRight {
+	BACKGROUND: url(images/tab_off_left_selected_right.gif) no-repeat left top
+}
+DIV.hsbcDivletTabMenu UL LI.extSelectedTabRight A {
+	BACKGROUND: url(images/tab_off_right_selected_right.gif) no-repeat right top
+}
+DIV.hsbcDivletTabMenu UL LI.extSelectedTabLeft {
+	
+}
+DIV.hsbcDivletTabMenu UL LI.extSelectedTabLeft A {
+	BACKGROUND: url(images/tab_off_right_selected_left.gif) no-repeat right top
+}
+DIV.hsbcDivletTabMenu UL LI.extLastTabSelected {
+	BACKGROUND: url(images/tab_on_left.gif) no-repeat left top
+}
+DIV.hsbcDivletTabMenu UL LI.extLastTabSelected A {
+	PADDING-RIGHT: 34px; BACKGROUND: url(images/last_tab_on_right.gif) no-repeat right top
+}
+DIV.hsbcDivletTabMenu UL LI.extRightAlignTab {
+	PADDING-RIGHT: 10px; FLOAT: right
+}
+DIV.hsbcDivletTabMenu UL LI.extRightAlignTabSelected {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 15px; BACKGROUND: url(images/first_tab_on_left.gif) no-repeat left top; FLOAT: right
+}
+DIV.hsbcDivletTabMenu UL LI.extRightAlignTabSelected A {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 3px; BACKGROUND: url(images/right_align_tab_on_right.gif) no-repeat right top
+}
+DIV.hsbcDivletTabMenu UL LI.extSelectedTabRightEndBlock {
+	BACKGROUND: url(images/tab_off_left_selected_right_end_block.gif) no-repeat left top
+}
+DIV.hsbcDivletTabMenu UL LI A.extDoubleLine {
+	LINE-HEIGHT: 13px; PADDING-TOP: 4px; HEIGHT: 40px
+}
+DIV.hsbcDivletTabMenu UL LI A .extMacIE {
+	CLEAR: none; FLOAT: none; PADDING-TOP: 0px
+}
+DIV.hsbcDivletBreadCrumb {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; FLOAT: left; PADDING-BOTTOM: 10px; MARGIN: 6px 0px 0px; WIDTH: 100%; PADDING-TOP: 0px
+}
+.wpsBreadcrumbTrail {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; FLOAT: left; PADDING-BOTTOM: 10px; MARGIN: 6px 0px 0px; WIDTH: 100%; PADDING-TOP: 0px
+}
+DIV.hsbcDivletBreadCrumb SPAN.hsbcDivletBreadCrumbStart {
+	BORDER-RIGHT: #fff 5px solid; FLOAT: left; COLOR: #666
+}
+DIV.hsbcDivletBreadCrumb UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV.hsbcDivletBreadCrumb UL LI {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 10px; BACKGROUND: url(images/breadcrumb_arrow.gif) no-repeat left 50%; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #666; PADDING-TOP: 0px; WHITE-SPACE: nowrap; LIST-STYLE-TYPE: none
+}
+.wpsBreadcrumbTrail {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 10px; BACKGROUND: url(images/breadcrumb_arrow.gif) no-repeat left 50%; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #666; PADDING-TOP: 0px; WHITE-SPACE: nowrap; LIST-STYLE-TYPE: none
+}
+DIV.hsbcDivletBreadCrumb UL LI A {
+	COLOR: #666; TEXT-DECORATION: underline
+}
+.wpsBreadcrumbTrail A {
+	COLOR: #666; TEXT-DECORATION: underline
+}
+DIV.hsbcDivletBreadCrumb UL LI.hsbcDivletBreadCrumbFirst {
+	PADDING-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%
+}
+DIV.hsbcDivletBreadCrumb UL LI.hsbcDivletBreadCrumbStart {
+	PADDING-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%
+}
+DIV.hsbcDivletBreadCrumb UL LI.hsbcDivletBreadCrumbLast {
+	
+}
+DIV.hsbcDivletNavigation {
+	PADDING-BOTTOM: 0px
+}
+.portlet-menu {
+	PADDING-BOTTOM: 0px
+}
+DIV.hsbcDivletNavigationTitle {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(images/bgLeftNavTitle.gif) no-repeat right top; PADDING-BOTTOM: 0px; WIDTH: 140px; PADDING-TOP: 4px
+}
+DIV.hsbcDivletNavigationTitle SPAN {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 11px; FONT-WEIGHT: bold; PADDING-BOTTOM: 3px; COLOR: #333; PADDING-TOP: 0px; BACKGROUND-COLOR: #eee
+}
+DIV.hsbcDivletNavigation UL {
+	PADDING-RIGHT: 0px; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 18px; PADDING-TOP: 0px; BORDER-BOTTOM: #ccc 1px solid
+}
+DIV.hsbcDivletNavigation UL LI {
+	BORDER-RIGHT: #eee 1px solid; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 3px; MARGIN: 0px; WIDTH: 139px; LINE-HEIGHT: 100%; PADDING-TOP: 1px; BORDER-BOTTOM: #eee 1px solid; LIST-STYLE-TYPE: none
+}
+.portlet-menu-item {
+	BORDER-RIGHT: #eee 1px solid; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 3px; MARGIN: 0px; WIDTH: 139px; LINE-HEIGHT: 100%; PADDING-TOP: 1px; BORDER-BOTTOM: #eee 1px solid; LIST-STYLE-TYPE: none
+}
+DIV.hsbcDivletNavigation UL LI A {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 8px; BACKGROUND: url(images/bgLeftNavItemArrow_zh.gif) no-repeat left top; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 11px; COLOR: #333; PADDING-TOP: 1px; HEIGHT: 100%; TEXT-DECORATION: none
+}
+DIV.hsbcDivletNavigation UL LI A:hover {
+	COLOR: #f00! important; TEXT-DECORATION: none
+}
+.portlet-menu-item-hover {
+	COLOR: #f00! important; TEXT-DECORATION: none
+}
+DIV.hsbcDivletNavigation UL LI.hsbcDivletNavigationSelected {
+	
+}
+.portlet-menu-item-selected {
+	
+}
+DIV.hsbcDivletNavigation UL LI.hsbcDivletNavigationSelectedWithChildren {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV.hsbcDivletNavigation UL LI.hsbcDivletNavigationSelected A {
+	COLOR: #f00! important
+}
+DIV.hsbcDivletNavigation UL LI.hsbcDivletNavigationSelectedWithChildren A {
+	FONT-WEIGHT: bold; BACKGROUND: url(images/bgLeftNavItemArrowParent_zh.gif) no-repeat left top; COLOR: #f00! important
+}
+DIV.hsbcDivletNavigation UL LI.hsbcDivletNavigationSelectedWithChildren UL {
+	PADDING-RIGHT: 0px; BORDER-TOP: #eee 1px solid; PADDING-LEFT: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 3px 0px 0px; PADDING-TOP: 0px
+}
+DIV.hsbcDivletNavigation UL LI.hsbcDivletNavigationSelectedWithChildren UL LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-TOP: 4px; BORDER-RIGHT-STYLE: none
+}
+.portlet-menu-cascade-item {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-TOP: 4px; BORDER-RIGHT-STYLE: none
+}
+DIV.hsbcDivletNavigation UL LI.hsbcDivletNavigationSelectedWithChildren UL LI A {
+	DISPLAY: block; FONT-WEIGHT: normal; BACKGROUND: url(images/bgLeftNavItemArrowChild_zh.gif) no-repeat left top; MARGIN: 0px 2px 2px 16px; COLOR: #333! important
+}
+DIV.hsbcDivletNavigation UL LI UL LI.hsbcDivletNavigationSelected {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.portlet-menu-cascade-item-selected {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+DIV.hsbcDivletNavigation UL LI UL LI.hsbcDivletNavigationSelected A {
+	COLOR: #f00! important
+}
+DIV.hsbcDivletNavigation UL LI UL LI A:hover {
+	COLOR: #f00! important; TEXT-DECORATION: none
+}
+DIV.hsbcDivletFooterLinks {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 16px 0px; WIDTH: 100%; COLOR: #333; LINE-HEIGHT: 180%; PADDING-TOP: 0px; BACKGROUND-COLOR: #eee
+}
+.wpsCopyrightText {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 16px 0px; WIDTH: 100%; COLOR: #333; LINE-HEIGHT: 180%; PADDING-TOP: 0px; BACKGROUND-COLOR: #eee
+}
+DIV.hsbcDivletFooterLinks P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #333; LINE-HEIGHT: 180%; PADDING-TOP: 0px
+}
+.wpsCopyrightText P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #333; LINE-HEIGHT: 180%; PADDING-TOP: 0px
+}
+DIV.hsbcDivletFooterLinks P A {
+	COLOR: #333; TEXT-DECORATION: none
+}
+.wpsCopyrightText P A {
+	COLOR: #333; TEXT-DECORATION: none
+}
+DIV.hsbcDivletFooterLinks P A:hover {
+	TEXT-DECORATION: underline
+}
+.wpsCopyrightText P A:hover {
+	TEXT-DECORATION: underline
+}
+DIV.hsbcDivletFooterLinks P SPAN.hsbcDivletFooterLinksLeft {
+	FLOAT: left; MARGIN-LEFT: 10px
+}
+.wpsCopyrightText P SPAN.hsbcDivletFooterLinksLeft {
+	FLOAT: left; MARGIN-LEFT: 10px
+}
+DIV.hsbcDivletFooterLinks P SPAN.hsbcDivletFooterLinksRight {
+	FLOAT: right; MARGIN-RIGHT: 10px
+}
+.wpsCopyrightText P SPAN.hsbcDivletFooterLinksLeft {
+	FLOAT: right; MARGIN-RIGHT: 10px
+}
+DIV.hsbcEntity {
+	CLEAR: both; PADDING-RIGHT: 7px; PADDING-LEFT: 11px; BACKGROUND: url(images/bgEntityTabBack.gif) repeat-x left top; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 970px; PADDING-TOP: 0px
+}
+DIV.hsbcEntity DIV.hsbcEntityTextArea01 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 3px
+}
+DIV.hsbcEntity DIV.hsbcEntityTextArea02 {
+	FLOAT: right
+}
+DIV.hsbcEntity UL {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV.hsbcEntity UL LI {
+	PADDING-RIGHT: 16px; PADDING-LEFT: 0px; BACKGROUND: url(images/bgEntityTabDivider.gif) no-repeat right top; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 3px; LIST-STYLE-TYPE: none; HEIGHT: 18px
+}
+DIV.hsbcEntity UL LI A {
+	
+}
+DIV.hsbcEntity UL LI.hsbcEntityTabSelectedLeft {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px; PADDING-TOP: 3px
+}
+DIV.hsbcEntity UL LI.hsbcEntityTabLastTab {
+	PADDING-RIGHT: 13px; PADDING-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px; PADDING-TOP: 3px
+}
+DIV.hsbcEntity A {
+	COLOR: #333; TEXT-DECORATION: none
+}
+DIV.hsbcEntity A:hover {
+	COLOR: #333; TEXT-DECORATION: underline
+}
+DIV.hsbcEntity UL LI.hsbcEntityTabSelected {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 14px; BACKGROUND: url(images/bgEntityTabLeft.gif) no-repeat left top; PADDING-BOTTOM: 0px; PADDING-TOP: 3px
+}
+DIV.hsbcEntity UL LI.hsbcEntityTabSelected A {
+	PADDING-RIGHT: 14px; PADDING-LEFT: 0px; BACKGROUND: url(images/bgEntityTabSlider.gif) no-repeat right top; PADDING-BOTTOM: 6px; COLOR: #f00; PADDING-TOP: 3px; HEIGHT: 18px
+}
+DIV.hsbcEntity UL LI.hsbcEntityTabSelected A:hover {
+	COLOR: #f00
+}
+.hsbcDivletPageList {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 9px! important; PADDING-LEFT: 0px! important; FONT-WEIGHT: bold; PADDING-BOTTOM: 0px! important; BORDER-LEFT: #ccc 1px solid; LINE-HEIGHT: 160%! important; PADDING-TOP: 0px! important; BORDER-BOTTOM: #ccc 1px solid; BACKGROUND-COLOR: #eee! important
+}
+UNKNOWN {
+	HEIGHT: 20px
+}
+UNKNOWN {
+	HEIGHT: auto
+}
+.hsbcDivletPageList UL {
+	CLEAR: none; PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; FLOAT: left! important; PADDING-BOTTOM: 0px! important; MARGIN: 0px; PADDING-TOP: 0px! important
+}
+.hsbcDivletPageList LI {
+	BORDER-RIGHT: #fff 1px solid; PADDING-RIGHT: 11px! important; PADDING-LEFT: 11px! important; FONT-WEIGHT: bold; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: left; PADDING-BOTTOM: 0px! important; MARGIN: 0px; LINE-HEIGHT: 240%! important; PADDING-TOP: 0px! important; LIST-STYLE-TYPE: none
+}
+.hsbcDivletPageList LI A {
+	COLOR: #f00
+}
+.hsbcDivletPageList LI.hsbcDivletPageListSelected {
+	BORDER-RIGHT: #fff 1px solid; BACKGROUND-COLOR: #fff! important
+}
+.hsbcDivletPageList LI.hsbcDivletPageListSelected A {
+	CURSOR: auto! important; COLOR: #333! important; TEXT-DECORATION: none! important
+}
+.hsbcDivletPageList LI A {
+	DISPLAY: block; FLOAT: none; TEXT-DECORATION: underline
+}
+A.hsbcDivletPageListSearchTips {
+	PADDING-RIGHT: 6px; FONT-WEIGHT: bold
+}
+SPAN.hsbcDivletPageListSearchTips {
+	PADDING-RIGHT: 6px; FONT-WEIGHT: bold
+}
+SPAN.hsbcDivletPageListSearchTips A {
+	TEXT-DECORATION: underline
+}
+.extBlockStyle01 SPAN.hsbcDivletPageListSearchTips {
+	MARGIN-TOP: 7px; MARGIN-RIGHT: 10px
+}
+.hsbcDivletSiteMap A.extIconLink {
+	PADDING-LEFT: 0px
+}
+.hsbcDivletSiteMap A.extNonIconLink {
+	PADDING-LEFT: 14px
+}
+.hsbcDivletSiteMap UL {
+	PADDING-LEFT: 0px; MARGIN: 0px 0px 15px 16px
+}
+DIV.hsbcDivletSiteMap UL LI {
+	PADDING-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; MARGIN: 0px; LIST-STYLE-TYPE: none
+}
+DIV.hsbcDivletSiteMap UL LI A {
+	FONT-WEIGHT: bold; COLOR: #000; TEXT-DECORATION: none
+}
+.hsbcDivletSiteMap UL LI UL {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.hsbcDivletSiteMap UL LI UL {
+	PADDING-LEFT: 0px; PADDING-TOP: 5px
+}
+.hsbcDivletSiteMap UL LI UL LI {
+	
+}
+.hsbcDivletSiteMap UL LI UL LI A {
+	FONT-WEIGHT: normal; COLOR: #f00! important
+}
+.hsbcDivletSiteMap UL LI UL LI UL {
+	PADDING-BOTTOM: 5px
+}
+.hsbcDivletSiteMap UL LI UL LI UL LI {
+	
+}
+DIV.hsbcDivletLogon {
+	HEIGHT: 36px; BACKGROUND-COLOR: #fff
+}
+DIV.hsbcDivletLogon P {
+	PADDING-RIGHT: 9px; BACKGROUND: url(images/dotRepeater.gif) #fff repeat-x right bottom; PADDING-BOTTOM: 8px; MARGIN: 0px; VERTICAL-ALIGN: middle; COLOR: #333; PADDING-TOP: 5px; TEXT-ALIGN: right
+}
+DIV.hsbcDivletLogon A {
+	COLOR: #333
+}
+DIV.hsbcDivletLogon P IMG {
+	VERTICAL-ALIGN: bottom! important
+}
+.extPopup {
+	MARGIN-TOP: 0px! important; WIDTH: auto! important; MARGIN-RIGHT: 20px
+}
+.extPopup .containerMainExpanded {
+	WIDTH: 100%! important
+}
+.extPopup .hsbcMainContent {
+	WIDTH: 100%
+}
+.extPopup .hsbcMainContent .hsbcContent {
+	PADDING-LEFT: 10px
+}
+.hsbcPopupCloser {
+	PADDING-RIGHT: 6px; MARGIN-TOP: 19px; FLOAT: right
+}
+.extPopup .hsbcDivletSearch {
+	
+}
+.hsbcPopupBar {
+	BACKGROUND: url(images/popup_bg.gif) #d90000 no-repeat right bottom; FLOAT: left; OVERFLOW: hidden; WIDTH: 100%; HEIGHT: 10px
+}
+.hsbcPopupBarInner {
+	BACKGROUND: url(images/popup_bg.gif) #f00 no-repeat right top; FLOAT: left; OVERFLOW: hidden; WIDTH: 100%; HEIGHT: 5px
+}
+.ext02Popup {
+	WIDTH: 760px! important
+}
+.ext02Popup .hsbcMainContent {
+	WIDTH: 760px! important
+}
+.ext02Popup .hsbcMainContent .hsbcContent {
+	PADDING-LEFT: 10px
+}
+.ext02Popup .hsbcPopupBar {
+	BACKGROUND: url(images/home_bar_bg.gif) #d90000 no-repeat right bottom
+}
+.ext02Popup .hsbcPopupBarInner {
+	BACKGROUND: url(images/home_bar_bg.gif) #f00 no-repeat right top
+}
+.hsbcContent H1 {
+	CLEAR: both
+}
+.extPopup .hsbcContent {
+	CLEAR: both; MARGIN-TOP: 5px; DISPLAY: block! important
+}
+.hsbcRightContent .hsbcButtonCenter {
+	MARGIN-TOP: 3px
+}
+.hsbcRightContent .hsbcButtonLeft {
+	MARGIN-TOP: 3px
+}
+.hsbcRightContent .hsbcButtonRight {
+	MARGIN-TOP: 3px
+}
+.hsbcRightContent .hsbcButtonCenter A {
+	
+}
+DIV.hsbcButtonLeft {
+	BACKGROUND: url(images/btn_left_inv.gif) no-repeat right 50%; FLOAT: left; WIDTH: 15px; HEIGHT: 22px
+}
+DIV.hsbcButtonCenter {
+	BACKGROUND: url(images/btn_bg_inv.gif) repeat-x; FLOAT: left
+}
+DIV.hsbcButtonCenter A {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 8px! important; FONT-WEIGHT: bold; BACKGROUND: url(images/arr_right_blu_inv.gif) no-repeat; FLOAT: left; PADDING-BOTTOM: 0px! important; MARGIN: 3px 0px; COLOR: #fff! important; PADDING-TOP: 0px! important; HEIGHT: 22px; TEXT-DECORATION: none! important
+}
+.wpsButtonText {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 8px! important; FONT-WEIGHT: bold; BACKGROUND: url(images/arr_right_blu_inv.gif) no-repeat; FLOAT: left; PADDING-BOTTOM: 0px! important; MARGIN: 3px 0px; COLOR: #fff! important; PADDING-TOP: 0px! important; HEIGHT: 22px; TEXT-DECORATION: none! important
+}
+.portlet-form-input-field {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 8px! important; FONT-WEIGHT: bold; BACKGROUND: url(images/arr_right_blu_inv.gif) no-repeat; FLOAT: left; PADDING-BOTTOM: 0px! important; MARGIN: 3px 0px; COLOR: #fff! important; PADDING-TOP: 0px! important; HEIGHT: 22px; TEXT-DECORATION: none! important
+}
+DIV.hsbcButtonCenter A:hover {
+	COLOR: #fff! important; TEXT-DECORATION: underline! important
+}
+DIV.hsbcButtonRight {
+	BACKGROUND: url(images/btn_right_inv.gif) no-repeat; FLOAT: left; WIDTH: 7px; HEIGHT: 22px
+}
+DIV.hsbcPopupContent {
+	PADDING-TOP: 10px
+}
+DIV.hsbcPopupContent H2 {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 10px 0px; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+DIV.hsbcPopupContent H1 {
+	FONT-WEIGHT: normal; COLOR: #333
+}
+DIV.hsbcPopupContent H2 {
+	FONT-WEIGHT: bold; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #333; PADDING-TOP: 9px
+}
+DIV.hsbcPopupContent H3 {
+	FONT-WEIGHT: bold; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #333
+}
+DIV.hsbcPopupContent P {
+	COLOR: #333
+}
+DIV.hsbcPopupContent OL {
+	PADDING-LEFT: 35px; MARGIN-LEFT: 0px
+}
+DIV.hsbcPopupContent UL {
+	PADDING-LEFT: 18px; MARGIN-LEFT: 0px
+}
+DIV.hsbcPopupContent UL LI {
+	PADDING-LEFT: 17px
+}
+DIV.hsbcPopupContent UL LI {
+	FONT-WEIGHT: normal; MARGIN: 10px 0px 0px; COLOR: #333
+}
+DIV.hsbcPopupContent OL LI {
+	FONT-WEIGHT: normal; MARGIN: 10px 0px 0px; COLOR: #333
+}
+DIV.hsbcPopupContent UL LI LI {
+	
+}
+DIV.hsbcPopupContent OL LI LI {
+	
+}
+DIV.searchContainerMain {
+	FLOAT: left; MARGIN: 0px; WIDTH: 100%; COLOR: #666; BACKGROUND-COLOR: #ffffff
+}
+.searchContainerMain FORM {
+	DISPLAY: inline
+}
+.searchContainerMain INPUT {
+	VERTICAL-ALIGN: middle! important
+}
+.searchContainerMain SELECT {
+	VERTICAL-ALIGN: middle! important
+}
+.searchContainerMain LABEL {
+	VERTICAL-ALIGN: middle! important
+}
+.searchContainerMain A {
+	COLOR: #f00; TEXT-DECORATION: underline
+}
+.searchContainerMain A IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+.searchContainerMain A:visited {
+	COLOR: #666699
+}
+.searchContainerMain TABLE {
+	MARGIN: 0px; BORDER-COLLAPSE: collapse
+}
+.searchContainerMain TABLE TD UL {
+	MARGIN-TOP: 0px! important
+}
+.searchContainerMain TABLE TD OL {
+	MARGIN-TOP: 0px! important
+}
+.searchContainerMain TABLE TD OL {
+	PADDING-LEFT: 8px! important
+}
+.searchContainerMain TABLE TD UL LI {
+	LINE-HEIGHT: 1.6em
+}
+.searchContainerMain TABLE TD OL LI {
+	LINE-HEIGHT: 1.6em
+}
+.searchContainerMain H1 {
+	MARGIN: 5px 0px
+}
+.searchContainerMain H2 {
+	MARGIN: 5px 0px
+}
+.searchContainerMain H3 {
+	MARGIN: 5px 0px
+}
+.searchContainerMain H4 {
+	MARGIN: 5px 0px
+}
+.searchContainerMain H5 {
+	MARGIN: 5px 0px
+}
+.searchContainerMain H6 {
+	MARGIN: 5px 0px
+}
+.searchContainerMain H1 {
+	FONT-WEIGHT: normal; MARGIN: 0px; COLOR: #f00
+}
+.searchContainerMain H2 {
+	MARGIN-TOP: 0px! important; FONT-WEIGHT: normal; COLOR: #666; PADDING-TOP: 4px
+}
+.searchContainerMain H3 {
+	FONT-WEIGHT: bold; PADDING-TOP: 6px! important
+}
+.searchContainerMain .searchContainerControlFull {
+	FLOAT: left; MARGIN: 5px 0px 8px 8px; WIDTH: 98%
+}
+.searchContainerMain .searchContainerControlFull .searchContentArea {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; BACKGROUND: #ececec; FLOAT: left; PADDING-BOTTOM: 1px; MARGIN: -1px 0px 0px; PADDING-TOP: 1px
+}
+.searchContainerMain .searchContainerControlFull .searchContentArea {
+	WIDTH: 94%
+}
+.searchContainerMain .searchContainerControlFull .searchContentArea .searchContentHeader {
+	PADDING-RIGHT: 5px; BORDER-TOP: #ececec 1px solid; PADDING-LEFT: 0px; BACKGROUND: #fff; FLOAT: left; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; BORDER-BOTTOM: #ececec 1px solid
+}
+.searchContainerMain .searchContainerControlFull .searchContentArea .searchContentHeader {
+	WIDTH: 100%
+}
+.searchContainerMain .searchContainerControlFull .searchContentArea .searchContentHeader H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.searchContainerMain .searchContainerControlFull .searchContentArea .searchContentHeader H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 10px 0px; PADDING-TOP: 0px
+}
+.searchContainerMain .searchContainerControlFull .searchContentArea .searchContentHeader P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 10px 0px; PADDING-TOP: 0px
+}
+.searchContainerMain .searchContainerControlFull .searchContentArea .searchContentHeader SELECT {
+	MARGIN: 0px 0px 0px 3px; COLOR: #666
+}
+.searchContainerMain .searchContainerControlFull .searchContentArea .searchContentHeader INPUT {
+	MARGIN: 0px 0px 0px 3px; COLOR: #666
+}
+.searchContainerMain .searchContainerControlFull .searchContentArea .searchContentHeader LABEL {
+	COLOR: #666
+}
+.searchContainerMain .searchContainerControlFull .searchContentArea .searchContentNavigator {
+	BACKGROUND: #fff; MARGIN-BOTTOM: -6px; PADDING-TOP: 1px; BORDER-BOTTOM: #ececec 1px solid
+}
+.searchContainerMain .searchContainerControlFullPage .searchContentArea .searchContentNavigator {
+	WIDTH: 100%
+}
+.searchContainerMain .searchContainerControlFull .searchContentArea .searchContentNavigator {
+	WIDTH: 100%
+}
+.searchContainerMain .searchContainerControlFull .searchContentArea .searchContentNavigator A {
+	COLOR: #666
+}
+.searchContainerMain .searchContainerControlFull .searchContentArea .searchContentNavigator UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.searchContainerMain .searchContainerControlFull .searchContentArea .searchContentNavigator UL LI {
+	DISPLAY: inline; MARGIN: 0px
+}
+.searchContainerMain .searchContainerControlFull .searchContentArea .searchContentNavigator UL LI.searchSelected {
+	PADDING-TOP: 0px
+}
+.searchContainerMain .searchContainerControlFull .searchContentArea .searchContentNavigator UL LI.searchSelected A {
+	MARGIN-TOP: 0px; BACKGROUND: #f00; MARGIN-BOTTOM: 0px; COLOR: #fff
+}
+.searchContainerMain .searchContainerControlFull .searchContentArea .searchContentNavigator UL LI A {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 4px; MARGIN: 0px; VERTICAL-ALIGN: middle; BORDER-LEFT: #ececec 1px solid; PADDING-TOP: 4px
+}
+.searchContainerMain .searchContainerControlFull .searchContentArea .searchContentNavigator UL LI.searchLast A {
+	BORDER-RIGHT: #ececec 1px solid; BORDER-LEFT: #ececec 1px solid
+}
+.searchContainerMain .searchContainerControlFull .searchContentArea .searchContentNavigator .searchNavStep A {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: middle; PADDING-TOP: 0px
+}
+.searchContainerMain .searchContainerControlFull .searchContentArea .searchContentResults {
+	PADDING-RIGHT: 0px; BORDER-TOP: #ececec 1px solid; PADDING-LEFT: 0px; BACKGROUND: #f7f7f7; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 100%; PADDING-TOP: 0px; BORDER-BOTTOM: #ececec 1px solid
+}
+.searchContainerMain .searchContainerControlFull .searchContentArea .searchContentResults .searchResult {
+	PADDING-RIGHT: 15px; BACKGROUND: url(images/bg_hrStyle_Search.gif) repeat-x left bottom; PADDING-BOTTOM: 15px; MARGIN: 15px 0px 0px 15px
+}
+.searchContainerMain .searchContainerControlFull .searchContentArea .searchContentResults .searchLast {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.searchContainerMain .searchContainerControlFull .searchContentArea .searchContentResults .searchResult P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.searchContainerMain .searchFloatLeft {
+	FLOAT: left; TEXT-ALIGN: left
+}
+.searchContainerMain .searchFloatRight {
+	FLOAT: right; TEXT-ALIGN: right
+}
+.searchContainerMain .searchFloatCenter {
+	TEXT-ALIGN: center
+}
+.searchContainerMain .searchRed {
+	COLOR: #f00
+}
+.hsbcRow {
+	CLEAR: left; WIDTH: 100%
+}
+.langSelect {
+	PADDING-RIGHT: 14px; PADDING-LEFT: 14px; FONT-WEIGHT: bold; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 950px; PADDING-TOP: 3px; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: right
+}
+.containerControlLeftRight .langSelect {
+	PADDING-RIGHT: 14px; PADDING-LEFT: 14px; PADDING-BOTTOM: 0px; WIDTH: 800px; PADDING-TOP: 0px
+}
+.langSelect A {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #000; PADDING-TOP: 0px; TEXT-DECORATION: none
+}
+.langSelect A:hover {
+	COLOR: #f00; TEXT-DECORATION: none
+}
+.containerHomePageOuterContent .containerControlTwo .hsbcColumn {
+	PADDING-RIGHT: 11px! important; PADDING-LEFT: 0px! important; PADDING-BOTTOM: 0px! important; MARGIN: 0px; WIDTH: 388px! important; PADDING-TOP: 0px! important
+}
+.containerHomePageOuterContent .containerControlFour .hsbcColumn {
+	PADDING-RIGHT: 10px; MARGIN: 0px; WIDTH: 189px! important
+}
+
+}
+
+@media Print    
+{
+BODY {
+	MARGIN: 0px; COLOR: #000; FONT-FAMILY: SimSun, Helvetica, sans-serif
+}
+IMG {
+	FLOAT: left; MARGIN: 5px; VERTICAL-ALIGN: text-top; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+H1 {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 15px
+}
+H2 {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 15px
+}
+H3 {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 9px
+}
+P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV.containerTabMenu {
+	DISPLAY: none
+}
+DIV.containerBreadCrumb {
+	DISPLAY: none
+}
+DIV.containerLeftNav {
+	DISPLAY: none
+}
+DIV.containerLeft {
+	DISPLAY: none
+}
+DIV.hsbcDivletSearch {
+	DISPLAY: none
+}
+DIV.containerSearchArea {
+	DISPLAY: none
+}
+DIV.containerEntity {
+	DISPLAY: none
+}
+DIV.containerRightTools {
+	DISPLAY: none
+}
+.hsbcDivletFooterLinksLeft {
+	DISPLAY: none
+}
+.extInlineButtons IMG {
+	DISPLAY: none
+}
+P.extHrType01 {
+	DISPLAY: none
+}
+DIV.hsbcDivletPageList {
+	DISPLAY: none
+}
+DIV.hsbcDivletLogon {
+	DISPLAY: none
+}
+extHideBlock {
+	DISPLAY: none
+}
+DIV.extBlockStyle04 {
+	DISPLAY: none
+}
+DIV.hsbcContent TABLE.hsbcTableStyle02 TD P {
+	DISPLAY: none
+}
+DIV.hsbcDivletLogo {
+	MARGIN-BOTTOM: 10px; WIDTH: auto; HEIGHT: 48px
+}
+DIV.hsbcDivletLogo .hsbcDivletLogoImage {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 127px; PADDING-TOP: 14px
+}
+DIV.hsbcDivletLogo .hsbcDivletLogoTagLine {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 14px; FLOAT: left; PADDING-BOTTOM: 0px; FONT: bold 12px Arial, Helvetica, sans-serif; VERTICAL-ALIGN: middle; COLOR: #f00; PADDING-TOP: 23px
+}
+SPAN.hsbcDivletFooterLinksRight {
+	FLOAT: left; PADDING-TOP: 10px
+}
+.extFloatBugFix {
+	CLEAR: both
+}
+DIV.hsbcStyleContent02 P {
+	MARGIN-BOTTOM: 8px
+}
+P A IMG {
+	CLEAR: both
+}
+
+}

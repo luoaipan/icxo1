@@ -1,0 +1,451 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+
+<title>ICXO Channel Detail</title>
+
+<style type="text/css">
+
+<!--
+
+body,td,th {
+
+	font-family: 宋体;
+
+	font-size: 12px;
+
+}
+
+body {
+
+	margin-left: 0px;
+
+	margin-top: 0px;
+
+	margin-right: 0px;
+
+	margin-bottom: 0px;
+
+}
+
+.STYLE6 {font-size: 14px}
+
+.STYLE9 {font-size: 14px; font-weight: bold; }
+
+.STYLE11 {color: #0033FF}
+
+#Layer1 {
+
+
+
+	left:245px;
+
+	top:13px;
+
+	width:431px;
+
+	height:180px;
+
+	padding-top:15px;
+
+	padding-left:0px;
+
+	z-index:1;
+
+	border-top-color: #99CC33;
+
+	border-right-color: #99CC33;
+
+	border-bottom-color: #99CC33;
+
+	border-left-color: #99CC33;
+
+	border-top-style: double;
+
+	border-right-style: double;
+
+	border-bottom-style: double;
+
+	border-left-style: double;
+
+}
+
+ul{
+
+	list-style-type: none;
+
+	margin-top: 1px;
+
+	margin-left: 20px;
+
+}
+
+ul li {
+
+	display: block;
+
+	height: 0px;
+
+	width: 90%;
+
+	border: 1px solid #0099CC;
+
+	padding: 10px;
+
+	color: #990000;
+
+	text-decoration: blink;
+
+	font-weight: bold;
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 14px;
+
+	margin-top: 0px;
+
+	margin-right: 0px;
+
+	margin-bottom: 20px;
+
+	margin-left: 0px;
+
+}
+
+-->
+
+</style>
+
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body leftmargin=0 topmargin=0 oncontextmenu="return false" ondragstart="return false" onselectstart ="return false" onselect="document.selection.empty()" oncopy="document.selection.empty()" onbeforecopy="return false">
+
+<table width="870" border="0" cellpadding="3" cellspacing="3">
+
+  
+
+  <tr>
+
+    <td  align="center" width="230"><Iframe src="212.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></td>
+
+    <td  align="center"><iframe src="192.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe><br />ent.icxo.com<input type="button"  onclick="window.open('http://ent.icxo.com')" value="点击确认" />
+
+	</td>
+
+    <td  align="center"><iframe src="193.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe><br />inc.bosslink.com<input type="button"  onclick="window.open('http://inc.bosslink.com')" value="点击确认" />
+
+	</td>  
+
+    <td  align="center"><iframe src="195.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe><br />tech.icxo.com<input type="button"  onclick="window.open('http://tech.icxo.com')" value="点击确认" />
+
+	</td>
+
+  </tr>
+
+
+
+   <tr>  
+
+    <td  align="center"><iframe src="197.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe><br />office.icxo.com<input type="button"  onclick="window.open('http://office.icxo.com')" value="点击确认" />
+
+	</td>
+
+    <td  align="center"><iframe src="206.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe><br />finance.icxo.com<input type="button"  onclick="window.open('http://finance.icxo.com')" value="点击确认" />
+
+	</td>
+
+    <td  align="center"><iframe src="199.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe><br />oxford.icxo.com<input type="button"  onclick="window.open('http://oxford.icxo.com')" value="点击确认" />
+
+	</td>
+
+    <td  align="center"><iframe src="200.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe><br />blog.icxo.com<input type="button"  onclick="window.open('http://blog.icxo.com')" value="点击确认" />
+
+	</td>
+
+   </tr>
+
+  
+
+   <tr>
+
+    <td  align="center"><iframe src="205.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe><br />211.154.164.205<input type="button"  onclick="window.open('http://211.154.164.205')" value="点击确认" />
+
+	</td>
+
+    <td align="center"><iframe src="207.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe><br />www.wswire.com<input type="button"  onclick="window.open('http://www.wswire.com')" value="点击确认" /></td>
+
+    <td  align="center"><iframe src="208.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe><br />www.userrate.com<input type="button"  onclick="window.open('http://www.userrate.com')" value="点击确认" />
+
+	</td> 
+
+    <td  align="center"><iframe src="191.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe><br />blog.wswire.com<input type="button"  onclick="window.open('http://blog.wswire.com')" value="点击确认" />
+
+	</td>
+
+   </tr>    
+
+  
+
+   <tr>    
+
+    <td  align="center"><iframe src="240.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe><br />bbs.icxo.com<input type="button"  onclick="window.open('http://bbs.icxo.com')" value="点击确认" />
+
+	</td>
+
+    <td  align="center"><iframe src="211.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe><br />www.bosslink.com<input type="button"  onclick="window.open('http://www.bosslink.com')" value="点击确认" />
+
+	</td>
+
+    <td  align="center"><iframe src="213.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe><br />www.icxo.com<input type="button"  onclick="window.open('http://www.icxo.com')" value="点击确认" />
+
+	</td> 
+
+    <td  align="center"><iframe src="236.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe><br />health.icxo.com<input type="button"  onclick="window.open('http://health.icxo.com')" value="点击确认" />
+
+	</td>
+
+   </tr>
+
+   <tr>     
+
+    <td  align="center"><iframe src="210.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe><br />my.icxo.com<input type="button"  onclick="window.open('http://my.icxo.com')" value="点击确认" />
+
+	</td> 
+
+    <td  align="center"><iframe src="196.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe><br />school.cxio.com<input type="button"  onclick="window.open('http://school.icxo.com')" value="点击确认" />
+
+	</td>
+
+    <td  align="center"><iframe src="170.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe><br />bbs.fundatchina.com<input type="button"  onclick="window.open('http://bbs.fundatchina.com')" value="点击确认" />
+
+	</td>
+
+    <td  align="center"><iframe src="235.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe><br />thatsmetro.com<input type="button"  onclick="window.open('http://thatsmetro.com')" value="点击确认" />
+
+	</td>
+
+   </tr>
+
+   <tr>     
+
+    <td  align="center"><iframe src="237.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe><br />bossline.com<input type="button"  onclick="window.open('http://bossline.com')" value="点击确认" />
+
+	</td> 
+
+    <td  align="center"><iframe src="222_73_219_208.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe><br />bbs.bosslink.com<input type="button"  onclick="window.open('http://bbs.bosslink.com')" value="点击确认" />
+
+	</td>
+
+    <td  align="center"><iframe src="190.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe><br />photo.icxo.com<input type="button"  onclick="window.open('http://photo.icxo.com')" value="点击确认" />
+
+	</td>
+
+    <td  align="center"><iframe src="193.html" width="220" height="100"   frameborder="0" marginwidth="0" marginheight="0" scrolling="No"></iframe><br />inc.bosslink.com<input type="button"  onclick="window.open('http://www.bosslink.com')" value="点击确认" />
+
+	</td>
+
+   </tr>
+
+   <tr>
+
+     <td height="20" align="center" width="230"><span class="STYLE6"><br />
+
+      <br />
+
+      </span>
+
+       <div></div>
+
+       <div><span class="STYLE6"><strong>上海技术联系方式：<br>
+
+		<br>
+
+&nbsp;</strong></span><span class="STYLE9">潘&nbsp; 炼：13501805973 </span><span class="STYLE6"><br>
+
+<br />
+
+</span></div>
+
+       <span class="STYLE6"><br />
+
+       <br />
+
+     </span></td>
+
+     <td colspan="2" align="center">
+
+		<table width="102%" border="1" cellpadding="1" cellspacing="0" bordercolor="#CCCCCC">
+
+
+
+       <tr>
+
+         <td height="18">--
+
+<div id="Layer1">
+
+	<ul>
+
+	<h2 align="center">技术值班安排</h2>
+
+	<li>周日至周三：尹青松 ：150 1138 1422   </li>
+
+	<li>周四至周六：姚海利 ：159 0144 4563 </li>
+
+	<li><h3 align="center">请短信或电话通知----谢谢!!!</h3></li>
+	</ul>
+
+</div>
+
+</td>
+
+       </tr>
+
+       <tr>
+
+         <td height="23">　</td>
+
+       </tr>
+
+       <tr>
+
+         <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+             <tr>
+
+               <td height="20"><span class="STYLE11"> </span></td>
+
+              </tr>
+
+         </table></td>
+
+       </tr>
+
+       <tr>
+
+         <td>相关负责人：潘炼 13501805973 张万庆 13691283268</td>
+
+       </tr>
+
+       <tr>
+
+         <td><p>北京机房电话：010-84603665-1 直拨：62140360&nbsp;<b><a style=" background-color:#00FFFF" >免费电话:400 610 0008</a></b></p>
+
+          </td>
+
+       </tr>
+
+	   <tr>
+	     <td>香港服务器电话请拨：0755-25331333-822 紧急事件请打手机: 13509624411</td>
+	   </tr>
+
+       <tr>
+
+         <td>北京机房客服:席颖——13436381337&nbsp;&nbsp; 贾莹——13811311394</td>
+
+       </tr>
+
+     </table></td>
+
+     <td height="100" align="center" valign="middle"><div align="center">
+
+       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+         <tr>
+
+           <td height="150"><p><span class="STYLE6"><strong>北京技术联系方式：</strong><br />
+
+           <br>
+
+               <br>
+
+            </span><span class="STYLE9" style="font-size: 11pt">姚海利: 15901444563</span></p>
+
+             <p class="STYLE9">尹青松: 15011381422 </p></p>
+
+            <p>&nbsp;</p>
+
+            <p class="STYLE9">公司专线故障:</p>
+
+            <p class="STYLE9">王伟刚: 13521379992 </p></td>
+
+         </tr>		
+
+       </table>
+
+     </div></td>
+
+   </tr>
+
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
+
+<script language="JavaScript" type="text/javascript"> 
+
+<!-- 
+
+var pc = 0; 
+
+load(); 
+
+function load() { 
+
+pc+=1; 
+
+time = setTimeout("load()",500); 
+
+if (pc > 500) 
+
+{ 
+
+window.location.reload();
+
+clearTimeout(time); 
+
+} 
+
+}
+
+//-->
+
+</script>
+
